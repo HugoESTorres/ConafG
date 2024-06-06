@@ -1,0 +1,27 @@
+{
+    "2023": [
+      {
+        "trimestre": "1º ✔",
+        "path": "a.pdf"
+      },
+      {
+        "trimestre": "2º ✔",
+        "path": "a.pdf"
+      },
+      {
+        "trimestre": "3º ✔",
+        "path": "a.pdf"
+      },
+      {
+        "trimestre": "4º ✔",
+        "path": "a.pdf"
+      }
+    ],
+    "2024": [
+      {
+        "trimestre": "1º",
+        "path": "/ruta-al-archivo-1.pdf"
+      }
+    ]
+  }
+  

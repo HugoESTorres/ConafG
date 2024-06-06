@@ -1,0 +1,265 @@
+[
+  {
+    "id": "CAP-1",
+    "name": "Capítulo I. Disposiciones Generales",
+    "path": "cap1",
+    "articulos": [
+      {
+        "id": "ART-1",
+        "name": "Artículo 1.",
+        "path": "art1"
+      },
+      {
+        "id": "ART-2",
+        "name": "Artículo 2.",
+        "path": "art2"
+      },
+      {
+        "id": "ART-3",
+        "name": "Artículo 3.",
+        "path": "art3"
+      }
+    ]
+  },
+  {
+    "id": "CAP-2",
+    "name": "Capítulo II. De las Atribuciones del Consejo",
+    "path": "cap2",
+    "articulos": [
+      {
+        "id": "ART-4",
+        "name": "Artículo 4.",
+        "path": "art4"
+      }
+    ]
+  },
+  {
+    "id": "CAP-3",
+    "name": "Capítulo III. De la Integración de las Representaciones y su Incorporación al Consejo",
+    "path": "cap3",
+    "articulos": [
+      {
+        "id": "ART-5",
+        "name": "Artículo 5.",
+        "path": "art5"
+      },
+      {
+        "id": "ART-6",
+        "name": "Artículo 6.",
+        "path": "art6"
+      },
+      {
+        "id": "ART-7",
+        "name": "Artículo 7.",
+        "path": "art7"
+      },
+      {
+        "id": "ART-8",
+        "name": "Artículo 8.",
+        "path": "art8"
+      },
+      {
+        "id": "ART-9",
+        "name": "Artículo 9.",
+        "path": "art9"
+      },
+      {
+        "id": "ART-10",
+        "name": "Artículo 10.",
+        "path": "art10"
+      },
+      {
+        "id": "ART-11",
+        "name": "Artículo 11.",
+        "path": "art11"
+      },
+      {
+        "id": "ART-12",
+        "name": "Artículo 12.",
+        "path": "art12"
+      }
+    ]
+  },
+  {
+    "id": "CAP-4",
+    "name": "Capítulo IV. De las Funciones y Obligaciones del Presidente, del Secretario Técnico y de los Consejeros",
+    "path": "cap4",
+    "articulos": [
+      {
+        "id": "ART-13",
+        "name": "Artículo 13.",
+        "path": "art13"
+      },
+      {
+        "id": "ART-14",
+        "name": "Artículo 14.",
+        "path": "art14"
+      },
+      {
+        "id": "ART-15",
+        "name": "Artículo 15.",
+        "path": "art15"
+      },
+      {
+        "id": "ART-16",
+        "name": "Artículo 16.",
+        "path": "art16"
+      },
+      {
+        "id": "ART-17",
+        "name": "Artículo 17.",
+        "path": "art17"
+      },
+      {
+        "id": "ART-18",
+        "name": "Artículo 18.",
+        "path": "art18"
+      }
+    ]
+  },
+  {
+    "id": "CAP-5",
+    "name": "Capítulo V. De las Sesiones del Consejo",
+    "path": "cap5",
+    "articulos": [
+      {
+        "id": "ART-19",
+        "name": "Artículo 19.",
+        "path": "art19"
+      },
+      {
+        "id": "ART-20",
+        "name": "Artículo 20.",
+        "path": "art20"
+      },
+      {
+        "id": "ART-21",
+        "name": "Artículo 21.",
+        "path": "art21"
+      },
+      {
+        "id": "ART-22",
+        "name": "Artículo 22.",
+        "path": "art22"
+      },
+      {
+        "id": "ART-23",
+        "name": "Artículo 23.",
+        "path": "art23"
+      },
+      {
+        "id": "ART-24",
+        "name": "Artículo 24.",
+        "path": "art24"
+      },
+      {
+        "id": "ART-25",
+        "name": "Artículo 25.",
+        "path": "art25"
+      }
+    ]
+  },
+  {
+    "id": "CAP-6",
+    "name": "Capítulo VI. De los Comités Técnicos",
+    "path": "cap6",
+    "articulos": [
+      {
+        "id": "ART-26",
+        "name": "Artículo 26",
+        "path": "art27"
+      },
+      {
+        "id": "ART-27",
+        "name": "Artículo 27",
+        "path": "art27"
+      },
+      {
+        "id": "ART-28",
+        "name": "Artículo 28",
+        "path": "art28"
+      },
+      {
+        "id": "ART-29",
+        "name": "Artículo 29",
+        "path": "art29"
+      },
+      {
+        "id": "ART-30",
+        "name": "Artículo 30",
+        "path": "art30"
+      },
+      {
+        "id": "ART-31",
+        "name": "Artículo 31",
+        "path": "art31"
+      },
+      {
+        "id": "ART-32",
+        "name": "Artículo 32",
+        "path": "art32"
+      },
+      {
+        "id": "ART-33",
+        "name": "Artículo 33",
+        "path": "art33"
+      },
+      {
+        "id": "ART-34",
+        "name": "Artículo 34",
+        "path": "art34"
+      },
+      {
+        "id": "ART-35",
+        "name": "Artículo 35",
+        "path": "art35"
+      },
+      {
+        "id": "ART-36",
+        "name": "Artículo 36",
+        "path": "art36"
+      },
+      {
+        "id": "ART-37",
+        "name": "Artículo 37",
+        "path": "art37"
+      },
+      {
+        "id": "ART-38",
+        "name": "Artículo 38",
+        "path": "art38"
+      },
+      {
+        "id": "ART-39",
+        "name": "Artículo 39",
+        "path": "art39"
+      },
+      {
+        "id": "ART-40",
+        "name": "Artículo 40",
+        "path": "art40"
+      },
+      {
+        "id": "ART-41",
+        "name": "Artículo 41",
+        "path": "art41"
+      },
+      {
+        "id": "ART-42",
+        "name": "Artículo 42",
+        "path": "art42"
+      },
+      {
+        "id": "ART-43",
+        "name": "Artículo 43",
+        "path": "art43"
+      }
+    ]
+  },
+  {
+    "id": "TRA-1",
+    "name": "Transitorios",
+    "path": "transitorios",
+    "articulos": []
+  }
+]

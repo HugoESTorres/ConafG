@@ -1,0 +1,4025 @@
+[
+  {
+    "id": 0,
+    "estado":"Seleccionar Opción:"
+  },
+  {
+    "id": 1,
+    "estado": "Aguascalientes",
+    "shortname": "EGS",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "03 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1ORDAGS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "12 de mayo 2021",
+        "path": "/documents/actas-coefs/2021/2ORDAGS.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "18 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/3ORDAGS.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "10 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/4ORDAGS.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "26 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDAGS.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha":"11 de marzo 2020",
+        "path":"/documents/actas-coefs/2020/AGS/1ORDAGS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha":"17 de junio 2020",
+        "path":"/documents/actas-coefs/2020/AGS/2ORDAGS.pdf"
+      },
+      {
+        "nombre":"3ª Sesión de Ordinaria",
+        "fecha":"17 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/AGS/3ORDAGS.pdf"
+      }
+
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "02 de Febrero 2022",
+        "path": "/documents/actas-coefs/2022/AGS/1ORDAGS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "12 de Mayo 2022",
+        "path": "/documents/actas-coefs/2022/AGS/2ORDAGS.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "11 de Agosto 2022",
+        "path": "/documents/actas-coefs/2022/AGS/3ORDAGS.pdf"
+      }
+    ],
+    "actas2023": [
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"31 de Enero 2023",
+        "path":"/documents/actas-coefs/2023/AGS/1ORDAGS.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"30 de Mayo 2023",
+        "path":"/documents/actas-coefs/2023/AGS/2ORDAGS.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"14 de Septiembre 2023",
+        "path":"/documents/actas-coefs/2023/AGS/3ORDAGS.pdf"
+      },
+      {
+        "nombre":"4ª Sesión Ordinaria",
+        "fecha":"07 de Diciembre 2023",
+        "path":"/documents/actas-coefs/2023/AGS/4ORDAGS.pdf"
+      }
+    ],
+    "actas2024": [
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Sarahi Macias Alicea",
+        "dep":"Secretaria de Sustentabilidad, Medio Ambiente y Agua"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Guillermo Llamas López",
+        "dep":"Secretaria de Sustentabilidad, Medio Ambiente y Agua"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Víctor Villalobos Sánchez",
+        "dep":"Promotoría de Desarrollo Forestal en Aguascalientes de la Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Ruth Torres Alamilla",
+        "dep":"Promotoría de Desarrollo Forestal en Aguascalientes de la Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Francisco Javier Avelar González",
+        "dep":"Universidad Autónoma de Aguascalientes"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Josafat García Servín",
+        "dep":"Instituto Tecnológico de Aguascalientes"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Ernesto Lugo Ledesma",
+        "dep":"Instituto Tecnológico Nacional de México Campus El Llano"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Alfonso Peña Ramos",
+        "dep":"Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Héctor Javier Cruz Gutiérrez",
+        "dep":"Colegio de Biólogos del Estado de Aguascalientes"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Sergio Lira Padilla",
+        "dep":"Colegio de Agrónomos de Aguascalientes"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Luis Fernando Reynoso Martínez",
+        "dep":"SOS Mezquitera La Pona A. C."
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Wenceslao Bautista Rodríguez",
+        "dep":"Comité Estatal Sistema Producto Maguey Mezcal de Aguascalientes, A.C."
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Saúl Gallegos López",
+        "dep":"Asociaciones Forestales de Aguascalientes"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Guillermo Llamas López",
+        "dep":"Secretaria de Sustentabilidad, Medio Ambiente y Agua"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Miguel Muñoz de la Torre",
+        "dep":"Secretaria de Desarrollo Rural y Agroempresarial"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Luis Felipe Ruvalcaba Arellano",
+        "dep":"Secretaría de Medio Ambiente y Recursos Naturales en Aguascalientes"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Héctor Eduardo Anaya Pérez",
+        "dep":"Procuraduría Estatal de Protección al Ambiente del Estado de Aguascalientes"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"María de Jesús Rodríguez López",
+        "dep":"Procuraduría Federal de Protección al Ambiente en el Estado de Aguascalientes"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Luis Gabriel Valdivia Martínez",
+        "dep":"Comisión Nacional del Agua"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Marío Arturo Santana García",
+        "dep":"Secretaria de Agricultura y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Genny Janeth López Valenzuela",
+        "dep":"H. congreso del Estado, a través del Presidente de la Comisión del Medio Ambiente y Recursos Naturales."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Silvia Lincon Dávila",
+        "dep":"Secretaría de Bienestar Delegación Aguascalientes"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Edna Guadalupe García Armería",
+        "dep":"Instituto Aguascalentense de las Mujeres"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Nicolás Molina López",
+        "dep":"Instituto Nacional de Estadística y Geografía"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Luis Manuel Suaréz Rojas",
+        "dep":"Comunidad Monte Grande*"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Catarino Herrera Marin",
+        "dep":"Ejido Rincón de Romos"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Alma Delia Martínez Suarez",
+        "dep":"Ejido Jesús Maria"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Juan Uriarte Araujo ",
+        "dep":"Prestador de Servicios Profesionales"
+      }
+      
+    ],
+    "reglamento":[{
+      "nombre":"Reglamento Interno",
+      "fecha":"23 de Enero 2012",
+      "path":"/documents/actas-coefs/reglamentos/AGS.pdf"
+    }
+    ]
+  },
+  {
+    "id": 2,
+    "estado": "Baja California",
+    "shortname": "BC",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "24 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1ORDBC.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha":"18 de Agosto 2022",
+        "path":"/documents/actas-coefs/2022/BC/1SesionExt.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha":"19 de Septiembre 2022",
+        "path":"/documents/actas-coefs/2022/BC/2SesionExt.pdf"
+      }
+    ],
+    "actas2023": [
+      
+  
+    ],
+    "actas2024":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interno",
+        "fecha": "15 de Septiembre 2004",
+        "path": "/documents/actas-coefs/reglamentos/BC.pdf"
+
+      }
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Juan Melendres Espinoza",
+        "dep":"Secretaría del Campo y Seguridad Alimentaria"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Monica Juliana Vega Aguirre",
+        "dep":"Secretaría del Medio Ambiente y Desarrollo Sustentable"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Víctor Armando Santoyo Cid",
+        "dep":"Promotoria de Desarrollo Forestal en Baja California"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Luisa Andrea Hernandez Morales",
+        "dep":"Promotoria de Desarrollo Forestal en Baja California"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Daniel Octavio Valdez Delgadillo",
+        "dep":"Universidad Autonoma de Baja California"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"David Hilario Covarrubias Rosales",
+        "dep":"Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Gerardo Rodriguez Acuña",
+        "dep":"Asociacion para la Conservacion de Especies y Espacios Naturales Representativos de Baja California  A.C."
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Raquel Meza Velazco",
+        "dep":"Comunidad Indigena San Antonio Necua-Kumiai"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Elias Espinoza Alvarez",
+        "dep":"Instituto Nacional de Pueblos Indigenas"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Benito Rafael Bermudez Almada",
+        "dep":"Comisión Nacional de Áreas Naturales Protegidas"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Daniel Arturo Yáñez Sánchez",
+        "dep":"Procuraduria Federal de Proteccion al Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Ramiro Zaragoza Garcia",
+        "dep":"Secretaria de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Sergio Javier Loperena Nuñez",
+        "dep":"Baja Agro International AGROIN"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Heraclio Espinoza Dicochea",
+        "dep":"Cuesta del Cartabon S.P.R. DE R.L"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Lorena Esparza Calderon",
+        "dep":"Ejido Fco. R. Serrano"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Gabriel Dukes Carranza",
+        "dep":"Ejido Sierra de Juarez"
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      },
+      {
+        "integrante":"",
+        "nombre":"",
+        "dep":""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estado": "Baja California Sur",
+    "shortname": "BCS",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "25 de Agosto 2021",
+        "path": "/documents/actas-coefs/2021/1ORDBCS.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "14 de Octubre 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDBCS.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "29 de Agosto 2022",
+        "path": "/documents/actas-coefs/2022/BCS/1ORDBCS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "14 de Diciembre 2022",
+        "path": "/documents/actas-coefs/2022/BCS/2ORDBCS.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "27 de Febrero 2023",
+        "path": "/documents/actas-coefs/2023/BCS/1ORDBCS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "15 de Noviembre 2023",
+        "path": "/documents/actas-coefs/2023/BCS/2ORDBCS.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interno",
+        "fecha": "23 de Septiembre 2013",
+        "path": "/documents/actas-coefs/reglamentos/BCS.pdf"
+
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estado": "Campeche",
+    "shortname": "CAM",
+    "actas2021": [
+      
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "25 de febrero 2021",
+        "path": "/documents/actas-coefs/2021/1ORDCAMP.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "04 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDCAM.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "21 de abril 2021",
+        "path": "/documents/actas-coefs/2021/2ORDCAMP.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "09 de junio 2021",
+        "path": "/documents/actas-coefs/2021/3ORDCAMP.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "11 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/4ORDCAMP.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "17 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/2EXTRAORDCAM.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"11 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/CAM/1EXTRAORDCAM.pdf"
+      },
+      {
+        "nombre":"2ª Sesión",
+        "fecha":"13 de febrero 2020",
+        "path":"/documents/actas-coefs/2020/CAM/2CAM.pdf"
+      },
+      {
+        "nombre":"3ª Sesión de Ordinaria",
+        "fecha":"26 de agosto 2020",
+        "path":"/documents/actas-coefs/2020/CAM/3ORDCAM.pdf"
+      }
+      
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión de Instalación",
+        "fecha": "16 de mayo 2022",
+        "path": "En proceso"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "18 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/CAM/1EXTRAORDCAM.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "06 de junio 2022",
+        "path": "/documents/actas-coefs/2022/CAM/2EXTRAORDCAM.pdf"
+      },
+      {
+        "nombre": "2ª Sesión de Ordinaria",
+        "fecha": "13 de julio 2022",
+        "path": "/documents/actas-coefs/2022/CAM/2ORDCAM.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Extraordinaria",
+        "fecha": "05 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/CAM/3EXTRAORDCAM.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "15 de febrero 2023",
+        "path": "/documents/actas-coefs/2023/CAM/1ORDCAM.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "30 de Mayo 2023",
+        "path": "/documents/actas-coefs/2023/CAM/2ORDCAM.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "29 de Agosto 2023",
+        "path": "/documents/actas-coefs/2023/CAM/3ORDCAM.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Layda Elena Sansores San Román",
+        "dep":"Gobierno Constitucional del Estado de Campeche"
+      },
+      {
+        "integrante":"Vicepresidencia",
+        "nombre":"Sandra Martha Laffón Leal",
+        "dep":"Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía"
+      },
+      {
+        "integrante":"Segunda Vicepresidencia",
+        "nombre":"Ramón Gabriel Ochoa Peña",
+        "dep":"Secretaría de Desarrollo Agropecuario"
+      },
+      {
+        "integrante":"Secretaría Técnica",
+        "nombre":"Ana Laura Silva Galicia",
+        "dep":"Dirección de Desarrollo Forestal Sostenible"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Carlos Tucuh Cauich",
+        "dep":"Promotoría de Desarrollo forestal de la Comisión Nacional Forestal Campeche"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"César Uriel Romero Herrera",
+        "dep":"Despacho de la Oficina de Representación de la Secretaría de Medio Ambiente y Recursos Naturales en el Estado de Campeche"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Luis Enrique Alvarado Moo",
+        "dep":"Presidencia Municipal del H. Ayuntamiento de Calakmul"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Juanita del Rosario Cortés Moo",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Calkiní"
+      },
+
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Biby Rabelo de la Torre",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Campeche"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Francisco Javier Farías Ballón",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Candelaria"
+      },
+      {
+        "integrante":"Representante Municipal ",
+        "nombre":"Pablo Gutérrez Lazarus",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Carmen"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Claudeth Sarricolea Castillejo",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Champotón"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Roberto Herrera Maas",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Dzitbalché"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Silvestre Lemus Orozco",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Escárcega"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"José Dolores Brito Pech",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Hecelchakán"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Emilio Lara Calderón",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Hopelchén"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Ángela del Carmen Cámara Damas",
+        "dep":"Presidencia Municipal del H. Ayuntamiento de Palizada"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Cinthya Gelitzi Velázquez Rivera",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Seybaplaya"
+      },
+      {
+        "integrante":"Representante Municipal",
+        "nombre":"Karla del Rosario Uc Tuz",
+        "dep":"Presidencia  Municipal del H. Ayuntamiento de Tenabo"
+      },
+      {
+        "integrante":"Representante del sector industrial",
+        "nombre":"Víctor Hugo Fernández Carrillo",
+        "dep":"Dirección General de Agropecuaria Santa Genoveva SAPi de CV"
+      },
+      {
+        "integrante":"Representante del sector organizaciones no gubernamentales",
+        "nombre":"María Andrade Hernández",
+        "dep":"Dirección Ejecutiva de PRONATURA Península de Yucatán A.C"
+      },
+      {
+        "integrante":"Representante del Sector Ejidos",
+        "nombre":"Ernesto Guzmán Sánchez",
+        "dep":"Representante del Ejido Nuevo Bécal"
+      },
+      {
+        "integrante":"Representante del Secor Indígena",
+        "nombre":"Beltrán Uc Keb",
+        "dep":"Representate del Ejido Xmejía"
+      },
+      {
+        "integrante":"Representante del Sector del Colegio de Prestadores de Servicios Técnicos Forestales de Campeche",
+        "nombre":"Alma Fabiola Acevedo ",
+        "dep":"Presidencia del Colegio de Profesionistas Forestales Campeche"
+      },
+      {
+        "integrante":"Representante del Sector Académico",
+        "nombre":"José Javier Peralta Cosgaya",
+        "dep":"Dirección General del Instituto Tecnológico de Chiná"
+      },
+      {
+        "integrante":"Representante del Sector Comercial",
+        "nombre":"Juan Manuel Herrera Gloria",
+        "dep":"Presidencia de Productores Forestales de Calakmul A.C"
+      }
+
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interior Consejo Estatal Forestal Del Estado de Campeche.",
+        "fecha": "2015",
+        "path": "/documents/actas-coefs/reglamentos/CAM.pdf"
+
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estado": "Chiapas",
+    "shortname": "CHIS",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "24 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1ORDCHIS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "18 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/2ORDCHIS.pdf"
+      },
+      { 
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"16 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/CHIS/1ORDCHIS.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "11 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/CHIS/1EXTRAORDCHIS.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "25 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/CHIS/1ORDCHIS.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "17 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/CHIS/2EXTRAORDCHIS.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "28 de abril 2023",
+        "path": "/documents/actas-coefs/2023/CHIS/1ORDCHIS.pdf"
+      },
+      {
+      "nombre": "1ª Sesión Ordinaria",
+        "fecha": "25 de mayo 2022",
+        "path": "/documents/actas-coefs/2023/CHIS/2ORDCHIS.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Rutilio Escandón Cadenas",
+        "dep":"Gobierno del Estado de Chiapas"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"María del Rosario Bonifaz Alfonzo",
+        "dep":"Secretaria de Medio Ambiente e Historia Natural"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Sergio Naraín Zebadúa Alva",
+        "dep":"Subsecretaria de Desarrollo Forestal y Jardínes Botánicos de la Secretaria de Medio Ambiente e Historia Natural"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Juan Antonio Sandoval Flores",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Antonio Lazcano Soto",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Dr. Carlos Faustino Natarén Nandayapa",
+        "dep":" Universidad Autónoma de Chiapas"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Mtro. Juan José Solórzano Marcial",
+        "dep":"Universidad de Ciencias y Artes de Chiapas"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Lic. Lázaro Chanona Borges",
+        "dep":" Asociación Estatal de Silvicultores"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Biol. Romeo Domínguez Barradas",
+        "dep":"PRONATURA Sur, A.C. Representante del Sector No Gubernamental"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Biol. Guadalupe de la Cruz Guillén",
+        "dep":"Secretaria de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Ing. Inés Arredondo Hernández",
+        "dep":"Procuraduria Federal de Proteccion al Ambiente"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Lic. José Luis Lobato González",
+        "dep":" Cámara Nacional de la Industria Forestal en Chiapas"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Ing. Rausel Ramírez Camacho",
+        "dep":"Colegio de Ingenieros Forestales de Chiapas, A. C."
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Ing. Antonio Mariano Borja Texocotitla",
+        "dep":"Asociación Mexicana de Profesionales Forestales, A. C., Sección Chiapas"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Ing. Eduardo Téllez Martínez",
+        "dep":"Asociación Estatal de Prestadores de Servicios Técnicos Forestales Y Ambientales, A. C."
+      }
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Consejo Estatal Forestal.",
+        "fecha":"23 de julio 2014",
+        "path":"/documents/actas-coefs/reglamentos/CHIS.pdf"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estado": "Chihuahua",
+    "shortname": "CHIH",
+    "actas2021": [
+      {
+        "nombre": "172ª Sesión Ordinaria",
+        "fecha": "05 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/172ORDCHIH.pdf"
+      },
+      {
+        "nombre": "173ª Sesión Ordinaria",
+        "fecha": "30 de abril 2021",
+        "path": "/documents/actas-coefs/2021/173ORDCHIH.pdf"
+      },
+      {
+        "nombre": "174ª Sesión Ordinaria",
+        "fecha": "02 de julio 2021",
+        "path": "/documents/actas-coefs/2021/174ORDCHIH.pdf"
+      },
+      {
+        "nombre": "175ª Sesión Ordinaria",
+        "fecha": "20 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/175ORDCHIH.pdf"
+      },
+      {
+        "nombre": "176ª Sesión Ordinaria",
+        "fecha": "26 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/176ORDCHIH.pdf"
+      },
+      {
+        "nombre":"166ª Sesión Ordinaria",
+        "fecha":"31 de enero 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/166ORDCHIH.pdf"
+      },
+      {
+        "nombre":"167ª Sesión Ordinaria",
+        "fecha":"28 de febrero 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/167ORDCHIH.pdf"
+      },
+      {
+        "nombre":"168ª Sesión Ordinaria",
+        "fecha":"26 de junio 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/168ORDCHIH.pdf"
+      },
+      {
+        "nombre":"169ª Sesión Ordinaria",
+        "fecha":"28 de agosto 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/169ORDCHIH.pdf"
+      },
+      {
+        "nombre":"170ª Sesión Ordinaria",
+        "fecha":"02 de octubre 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/170ORDCHIH.pdf"
+      },
+      {
+        "nombre":"171ª Sesión Ordinaria",
+        "fecha":"11 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/171ORDCHIH.pdf"
+      },
+      {
+        "nombre":"171ª Sesión Extraordinaria",
+        "fecha":"21 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/CHIH/171EXTRAORDCHIH.pdf"
+      }
+
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "17 de enero 2022",
+        "path": "/documents/actas-coefs/2022/CHIH/1EXTRAORDCHIH.pdf"
+      },
+      {
+        "nombre": "177ª Sesión Ordinaria",
+        "fecha": "29 de abril 2022",
+        "path": "/documents/actas-coefs/2022/CHIH/177ORDCHIH.pdf"
+      },
+      {
+        "nombre": "178ª Sesión Ordinaria",
+        "fecha": "27 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/CHIH/178ORDCHIH.pdf"
+      },
+      {
+        "nombre": "179ª Sesión Ordinaria",
+        "fecha": "01 de julio 2022",
+        "path": "/documents/actas-coefs/2022/CHIH/179ORDCHIH.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "183ª Sesión Ordinaria",
+        "fecha": "03 de febrero 2023",
+        "path": "/documents/actas-coefs/2023/CHIH/183ORDCHIH.pdf"
+      },
+      {
+        "nombre": "184ª Sesión Ordinaria",
+        "fecha": "31 de marzo 2023",
+        "path": "/documents/actas-coefs/2023/CHIH/184ORDCHIH.pdf"
+      },
+      {
+        "nombre": "185ª Sesión Ordinaria",
+        "fecha": "28 de abril 2023",
+        "path": "/documents/actas-coefs/2023/CHIH/185ORDCHIH.pdf"
+      },
+      {
+        "nombre": "186ª Sesión Ordinaria",
+        "fecha": "08 de junio 2023",
+        "path": "/documents/actas-coefs/2023/CHIH/186ORDCHIH.pdf"
+      },
+      {
+        "nombre": "187ª Sesión Ordinaria",
+        "fecha": "25 de agosto 2023",
+        "path": "/documents/actas-coefs/2023/CHIH/187ORDCHIH.pdf"
+      }
+    ],
+    "actas2024":[
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "12 de enero 2024",
+        "path": "/documents/actas-coefs/2024/CHIH/1EXTRAORDCHIH.pdf"
+      }
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Consejo Estatal Forestal Estado de Chihuahua.",
+        "fecha":"21 de febrero 2003",
+        "path":"/documents/actas-coefs/reglamentos/CHIH.pdf"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "estado": "Ciudad de México",
+    "shortname": "CDMX",
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Consejo Forestal de la Ciudad de México.",
+        "fecha":"24 de Mayo 2016",
+        "path":"/documents/actas-coefs/reglamentos/CDMX.pdf"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "estado": "Coahuila",
+    "shortname": "COAH",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "16 de abril 2021",
+        "path": "/documents/actas-coefs/2021/1ORDCOAH.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "30 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/2ORDCOAH.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "16 de diciembre 2021",
+        "path": "/documents/actas-coefs/2021/3ORDCOAH.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha":"10 de febrero 2020",
+        "path":"/documents/actas-coefs/2020/COAH/1ORDCOAH.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "21 de febrero 2023",
+        "path": "/documents/actas-coefs/2023/COAH/1ORDCOAH.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "09 de octubre 2023",
+        "path": "/documents/actas-coefs/2023/COAH/2ORDCOAH.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interior del Consejo Estatal Forestal de Coahuila.",
+        "fecha":"20 de junio 2017",
+        "path":"/documents/actas-coefs/reglamentos/COAH.pdf"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "estado": "Colima",
+    "shortname": "COL",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "16 de febrero 2021",
+        "path": "/documents/actas-coefs/2021/1ORDCOL.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "13 de abril 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "11 de mayo 2021",
+        "path": "/documents/actas-coefs/2021/2EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Extraordinaria",
+        "fecha": "15 de junio 2021",
+        "path": "/documents/actas-coefs/2021/3EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Extraordinaria",
+        "fecha": "17 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/4EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Extraordinaria",
+        "fecha": "08 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/5EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Extraordinaria",
+        "fecha": "19 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/6EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"11 de junio 2020",
+        "path":"/documents/actas-coefs/2020/COL/1ORDCOL.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Extraordinaria",
+        "fecha":"03 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/COL/2EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Extraordinaria",
+        "fecha":"22 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/COL/3EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre":"4ª Sesión Extraordinaria",
+        "fecha":"06 de noviembre 2020",
+        "path":"/documents/actas-coefs/2020/COL/4EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre":"5ª Sesión Extraordinaria",
+        "fecha":"09 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/COL/5EXTRAORDCOL.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "27 de enero 2022",
+        "path": "/documents/actas-coefs/2022/COL/1ORDCOL.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "09 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/COL/1EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "04 de marzo 2022",
+        "path": "/documents/actas-coefs/2022/COL/2ORDCOL.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "05 de abril 2022",
+        "path": "/documents/actas-coefs/2022/COL/2EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Extraordinaria",
+        "fecha": "16 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/COL/3EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Extraordinaria",
+        "fecha": "22 de septiembre 2022",
+        "path": "/documents/actas-coefs/2022/COL/4EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Extraordinaria",
+        "fecha": "11 de noviembre 2022",
+        "path": "/documents/actas-coefs/2022/COL/5EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Extraordinaria",
+        "fecha": "06 de diciembre 2022",
+        "path": "/documents/actas-coefs/2022/COL/6EXTRAORDCOL.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"25 de septiembre 2023",
+        "path":"/documents/actas-coefs/2023/COL/1EXTRAORDCOL.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"17 de enero 2023",
+        "path":"/documents/actas-coefs/2023/COL/1ORDCOL.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"14 de marzo 2023",
+        "path":"/documents/actas-coefs/2023/COL/2ORDCOL.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"25 de julio 2023",
+        "path":"/documents/actas-coefs/2023/COL/3ORDCOL.pdf"
+      },
+      {
+        "nombre":"4ª Sesión Ordinaria",
+        "fecha":"18 de septiembre 2023",
+        "path":"/documents/actas-coefs/2023/COL/4ORDCOL.pdf"
+      },
+      {
+        "nombre":"5ª Sesión Ordinaria",
+        "fecha":"28 de noviembre 2023",
+        "path":"/documents/actas-coefs/2023/COL/5ORDCOL.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Indira Vizcaíno Silva",
+        "dep":"Gobierno del estado de Colima"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Jaime Enrique Sotelo García",
+        "dep":"Gobierno del estado de Colima"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Luis David Aceves Rangel",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Ana Rosa Braña Castillo",
+        "dep":"Instituto Tecnológico de Colima del Tecnológico Nacional de México"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Christian Jorge Torres Ortiz Zermeño",
+        "dep":"Universidad de Colima"
+      },
+      {
+        "integrante":"Sector Gobierno Estatal",
+        "nombre":"Angélica Jiménez Hernández",
+        "dep":"Instituto para el Medio Ambiente y Desarrollo Sustentable"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Pablo Zamorano de Haro",
+        "dep":"Secretaría del Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Zoila Dulce Ceja Rodríguez",
+        "dep":"Procuraduría Federal de Protección al Medio Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Tania Román Guzmán",
+        "dep":"Comisión Nacional del Agua"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Esmeralda Lopez Mendoza",
+        "dep":"Secretaría de Agricultura y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Mercedes Flores Rodriguez",
+        "dep":"Procuraduría Agraria"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Julio Leon Trujillo",
+        "dep":"Secretaría de Bienestar"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Miguel Angel Manzanilla Ramirez",
+        "dep":"Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"María Concepción Nuñez Escobedo",
+        "dep":"Registro Agrario Nacional"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Fernando Ramón Gavito Pérez",
+        "dep":"Director de la Reserva de la Biósfera Sierra de Manantlán, Comisión Nacional de Áreas Naturales Protegidas"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Samuel Salvador Ortíz",
+        "dep":"Instituto Nacional de los Pueblos Indígenas de Jalisco"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Saúl Moreno Gómez",
+        "dep":"Asociación Mexicana de Profesionistas Forestales A.C. del Estado de Colima"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Gilberto Manzo Sánchez",
+        "dep":"Federación Agronómica del Estado colima A. C."
+      }
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno.",
+        "fecha":"19 de septiembre 2013",
+        "path":"/documents/actas-coefs/reglamentos/COL.pdf"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "estado": "Durango",
+    "shortname": "DGO",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "25 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1ORDDGO.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "18 de junio 2021",
+        "path": "/documents/actas-coefs/2021/2ORDDGO.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "13 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/3ORDDGO.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"14 de julio 2020",
+        "path":"/documents/actas-coefs/2020/DGO/1ORDDGO.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"15 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/DGO/2ORDDGO.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "31 de marzo 2022",
+        "path": "/documents/actas-coefs/2022/DGO/1ORDDGO.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "08 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/DGO/1EXTRAORDDGO.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"14 de marzo 2023",
+        "path":"/documents/actas-coefs/2023/DGO/1ORDDGO.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"24 de noviembre 2023",
+        "path":"/documents/actas-coefs/2023/DGO/2ORDDGO.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Esteban Villegas Villarreal",
+        "dep":"Gobierno del Estado de Durango"
+      },
+      {
+        "integrante":"Presidente ejecutivo",
+        "nombre":"Claudia Ernestina Hernández Espino",
+        "dep":"Secretaría de Recursos Naturales y Medio Ambiente"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Jorge Rosales Marquez ",
+        "dep":"Promotoría de Desarrollo Forestal de la Comisión Nacional Forestal en Durango"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Christian Alejandra Rosales Soto",
+        "dep":"Promotoría de Desarrollo Forestal de la Comisión Nacional Forestal en Durango"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Juan B. Rentería Anima",
+        "dep":"Coordinación y Vinculación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, Campo Experimental “Valle del Guadiana”"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Raul Solis Moreno",
+        "dep":"Facultad de Ciencias Forestales de la Universidad Juárez del Estado de Durango"
+      },
+       {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Luis Jorge Aviña Berumen",
+        "dep":"Instituto de Silvicultura e Industria de la Madera de la Universidad Juárez del Estado de Durango"
+      },
+       {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"David Maldonado Ayala",
+        "dep":"Instituto Tecnologico del El Salto"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Zenaido Garnica Sánchez",
+        "dep":"NEPCon México A.C. "
+      },
+      {
+        "integrante":"Sector no Gubernamental suplente",
+        "nombre":"José Galván Rivas",
+        "dep":"NEPCon México A.C. "
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Feliciano Simental Cano",
+        "dep":"Comunidad San Bernardino de Milpillas Chico"
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Félix Avitia Martínez",
+        "dep":"Comunidad San Bernardino de Milpillas Chico"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Román Galán Treviño",
+        "dep":"Delegación Federal de la  Secretaría de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Jose Luis Cisneros Garcia",
+        "dep":"Delegación Federal de la  Secretaría de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Saúl Vargas Martínez",
+        "dep":"Secretaría de Agricultura y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Marco Vinicio Páez Álvarez",
+        "dep":"Secretaría de Agricultura y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Christian Alejandra Rosales Soto",
+        "dep":"Promotoría de Desarrollo Forestal de la Comisión Nacional Forestal en Durango"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Juan Francisco Gonzalez Gandarilla",
+        "dep":"Promotoría de Desarrollo Forestal de la Comisión Nacional Forestal en Durango"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"José Luis Reyes Muñoz",
+        "dep":"Delegación Federal de la Procuraduría Federal de Protección al Medio Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Nancy Oliveros ",
+        "dep":"Delegación Federal de la Procuraduría Federal de Protección al Medio Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental Estatal",
+        "nombre":"Manuel Sanchez Zamudio",
+        "dep":"Secretaria de Agricultura, Ganaderia y Desarrollo Rural Durango"
+      },
+      {
+        "integrante":"Sector Gubernamental Estatal",
+        "nombre":"Armando Orozco Guerrero",
+        "dep":"Secretaría de Recursos Naturales y Medio Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental Estatal",
+        "nombre":"Arturo Medrano Soto",
+        "dep":"Secretaría de Recursos Naturales y Medio Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental Municipal",
+        "nombre":"Jorge Salum del Palacio",
+        "dep":"Municipio de Durango"
+      },
+      {
+        "integrante":"Sector Gubernamental Municipal",
+        "nombre":"Amelia Salas Chacon",
+        "dep":"Municipio de Durango"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Gerardo Javier Andrade Martínez",
+        "dep":"Asociación de Industriales Forestales de Durango, A.C"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Jesús Hugo Mancinas Alemán",
+        "dep":"Asociación de Industriales Forestales de Durango, A.C"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Víctor Manuel Torrecillas Alemán ",
+        "dep":"Ejido Pueblo Nuevo"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Andrés Carrera Zepeda",
+        "dep":"Ejido Salto de Camellones"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Gerónimo Quiñonez Barraza",
+        "dep":"Asociación Mexicana de Profesionales Forestales, Sección Durango"
+      },
+      { 
+        "integrante":"Sector Profesional",
+        "nombre":"Jesús Bueno Muñoz",
+        "dep":"Asociación Mexicana de Profesionales Forestales, Sección Durango"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Oswaldo Fernández Gallardo",
+        "dep":"Colegio de Profesionales Forestales, Prestadores de Asistencia Técnica del Estado de Durango"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Trinidad Valenzuela Hermosillo",
+        "dep":"Colegio de Profesionales Forestales, Prestadores de Asistencia Técnica del Estado de Durango"
+      },
+      {
+        "integrante":"Sector social",
+        "nombre":"Raul Barraza Armstrong",
+        "dep":"Confederacion de Productores Forestales del Estado de Durango"
+      },
+      {
+        "integrante":"Sector social",
+        "nombre":"Natividad Melendez Moreno",
+        "dep":"Confederacion de Productores Forestales del Estado de Durango"
+      },
+      {
+        "integrante":"Sector social",
+        "nombre":"Jose de la Luz Santillan Soto",
+        "dep":"Union Nacional de Organizaciones de Foresteria Comunal A.C."
+      },
+      {
+        "integrante":"Sector social",
+        "nombre":"Miguel Alvarado Huizar",
+        "dep":"Union Nacional de Organizaciones de Foresteria Comunal A.C."
+      }
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento del Consejo Estatal Forestal y de Suelos del Estado de Durango.",
+        "fecha":"22 de mayo 2012",
+        "path":"/documents/actas-coefs/reglamentos/DGO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "estado": "Guanajuato",
+    "shortname": "GTO",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "20 de abril 2021",
+        "path": "/documents/actas-coefs/2021/1ORDGTO.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "20 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/2ORDGTO.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "15 de diciembre 2021",
+        "path": "/documents/actas-coefs/2021/3ORDGTO.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "19 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/GTO/1ORDGTO.pdf"
+      }
+    ],
+    "actas2023":[
+        {
+          "nombre":"N/A",
+          "fecha":"N/A",
+          "Path":""
+        }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Consejo Estatal Forestal Estado de Guanajuato.",
+        "fecha":"27 de Noviembre 2009",
+        "path":"/documents/actas-coefs/reglamentos/GTO.pdf"
+      }
+    ]
+
+  },
+  {
+    "id": 12,
+    "estado": "Guerrero",
+    "shortname": "GRO",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "11 de marzo 2021",
+        "path": "/documents/actas-coefs/2022/1ORDGRO.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "13 de agosto 2021",
+        "path": "/documents/actas-coefs/2022/2ORDGRO.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "14 de diciembre 2021",
+        "path": "/documents/actas-coefs/2022/3ORDGRO.pdf"
+      },
+      {
+        "nombre":"Sesión de Consejo",
+        "fecha":"09 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/GRO/Sesión.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Evelyn Cecia Salgado Pineda",
+        "dep":"Gobierno del Estado de Guerrero"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Ángel Almazán Juárez",
+        "dep":"Secretaría de Medio Ambiente y Recursos Naturales."
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Guadalupe Rivas Pérez",
+        "dep":"Promotoría de Desarrollo Forestal, de la Comisión Nacional Forestal en Guerrero "
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Rubén Santos Echeverría",
+        "dep":"Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias."
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"José Alfredo Romero Olea ",
+        "dep":"Universidad Autónoma de Guerrero "
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Nancedalia Ramírez Domínguez ",
+        "dep":"Representación de los Silvicultores en el Estado."
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Carlos Alarcón Nava",
+        "dep":"Consejo Consultivo para el Desarrollo Sustentable, Núcleo Guerrero."
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Manuel Vázquez Quintero",
+        "dep":"Instituto Nacional de los Pueblos Indígenas"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Marco Antonio Castro Martínez",
+        "dep":"Dirección Regional Centro y Eje Neovolcanico de la Comisión Nacional de Áreas Naturales Protegidas."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Omar Magallanes Telumbre ",
+        "dep":"Despacho de la representación Federal de la Procuraduria Federal de Proteccion al Ambiente en el Estado"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Edith Sánchez de Aquino ",
+        "dep":"Despacho de la Representación Federal de la  Secretaria de Desarrollo Agrario, Territorial y Urbano."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Ludwig Marcial Reynoso Núñez",
+        "dep":"Secretaría General de Gobierno del Estado "
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Carlos Toledo Manzur",
+        "dep":"Procuraduría de Protección Ecológica."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Jorge Peto Calderón ",
+        "dep":"Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Roberto Arroyo Matuz.",
+        "dep":"Secretaría de Protección Civil del Estado."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Armando Sánchez Gómez",
+        "dep":"Despacho de la representación Federal de la Secretaría de Medio Ambiente y Recursos Naturales en el Estado."
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Juan Carlos Gómez Núñez ",
+        "dep":"Cámara Nacional de la Industria Forestal en la 8ª Región de Guerrero."
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"José Luís Daza García",
+        "dep":"Camara Nacional Industria Maderera"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Javier Muñoz Gutiérrez",
+        "dep":"Asociación Mexicana de Profesionistas Forestales Sección 8ª en Guerrero"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Alejandro Albarrán Silva",
+        "dep":"Consultores Medio Ambientales de Guerrero, S.A. de C.V."
+      }
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno del Consejo Forestal Estatal de Guerrero.",
+        "fecha":"26 de junio 2015",
+        "path":"/documents/actas-coefs/reglamentos/GRO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "estado": "Hidalgo",
+    "shortname": "HGO",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "26 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1ORDHGO.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+      
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+          "nombre":"Reglamento Interno Consejo Forestal Estatal Pachuca de Soto, HGO.",
+          "fecha":"22 de mayo 2015",
+          "path":"/documents/actas-coefs/reglamentos/HGO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "estado": "Jalisco",
+    "shortname": "JAL",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "28 de enero 2021",
+        "path": "/documents/actas-coefs/2021/1ORDJAL.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "25 de febrero 2021",
+        "path": "/documents/actas-coefs/2021/2ORDJAL.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "25 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/3ORDJAL.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "29 de abril 2021",
+        "path": "/documents/actas-coefs/2021/4ORDJAL.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Ordinaria",
+        "fecha": "27 de mayo 2021",
+        "path": "/documents/actas-coefs/2021/5ORDJAL.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Ordinaria",
+        "fecha": "24 de junio 2021",
+        "path": "/documents/actas-coefs/2021/6ORDJAL.pdf"
+      },
+      {
+        "nombre": "7ª Sesión Ordinaria",
+        "fecha": "29 de julio 2021",
+        "path": "/documents/actas-coefs/2021/7ORDJAL.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "12 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDJAL.pdf"
+      },
+      {
+        "nombre": "8ª Sesión Ordinaria",
+        "fecha": "26 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/8ORDJAL.pdf"
+      },
+      {
+        "nombre": "9ª Sesión Ordinaria",
+        "fecha": "30 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/9ORDJAL.pdf"
+      },
+      {
+        "nombre": "10ª Sesión Ordinaria",
+        "fecha": "28 de octubre 2021",
+        "path": "/documents/actas-coefs/2021/10ORDJAL.pdf"
+      },
+      {
+        "nombre": "11ª Sesión Ordinaria",
+        "fecha": "25 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/11ORDJAL.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"10 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/JAL/1EXTRAORDJAL.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"27 de febrero 2020",
+        "path":"/documents/actas-coefs/2020/JAL/2ORDJAL.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"30 de abril 2020",
+        "path":"/documents/actas-coefs/2020/JAL/3ORDJAL.pdf"
+      },
+      {
+        "nombre":"4ª Sesión Ordinaria",
+        "fecha":"25 de junio 2020",
+        "path":"/documents/actas-coefs/2020/JAL/4ORDJAL.pdf"
+      },
+      {
+        "nombre":"5ª Sesión Ordinaria",
+        "fecha":"30 de julio 2020",
+        "path":"/documents/actas-coefs/2020/JAL/5ORDJAL.pdf"
+      },
+      {
+        "nombre":"6ª Sesión Ordinaria",
+        "fecha":"27 de agosto 2020",
+        "path":"/documents/actas-coefs/2020/JAL/6ORDJAL.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "27 de enero 2022",
+        "path": "/documents/actas-coefs/2022/JAL/1ORDJAL.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "24 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/JAL/2ORDJAL.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "31 de marzo 2022",
+        "path": "/documents/actas-coefs/2022/JAL/3ORDJAL.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "28 de abril 2022",
+        "path": "/documents/actas-coefs/2022/JAL/4ORDJAL.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Ordinaria",
+        "fecha": "26 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/JAL/5ORDJAL.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Ordinaria",
+        "fecha": "30 de junio 2022",
+        "path": "/documents/actas-coefs/2022/JAL/6ORDJAL.pdf"
+      },
+      {
+        "nombre": "7ª Sesión Ordinaria",
+        "fecha": "28 de julio 2022",
+        "path": "/documents/actas-coefs/2022/JAL/7ORDJAL.pdf"
+      },
+      {
+        "nombre": "8ª Sesión Ordinaria",
+        "fecha": "25 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/JAL/8ORDJAL.pdf"
+      },
+      {
+        "nombre": "9ª Sesión Ordinaria",
+        "fecha": "28 de septiembre 2022",
+        "path": "/documents/actas-coefs/2022/JAL/9ORDJAL.pdf"
+      },
+      {
+        "nombre": "10ª Sesión Ordinaria",
+        "fecha": "27 de octubre 2022",
+        "path": "/documents/actas-coefs/2022/JAL/10ORDJAL.pdf"
+      },
+      {
+        "nombre": "11ª Sesión Ordinaria",
+        "fecha": "24 de noviembre 2022",
+        "path": "/documents/actas-coefs/2022/JAL/11ORDJAL.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "26 de enero 2023",
+        "path": "/documents/actas-coefs/2023/JAL/1ORDJAL.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "23 de febrero 2023",
+        "path": "/documents/actas-coefs/2023/JAL/2ORDJAL.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "27 de abril 2023",
+        "path": "/documents/actas-coefs/2023/JAL/3ORDJAL.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "25 de mayo 2022",
+        "path": "/documents/actas-coefs/2023/JAL/4ORDJAL.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Ordinaria",
+        "fecha": "29 de junio 2023",
+        "path": "/documents/actas-coefs/2023/JAL/5ORDJAL.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Ordinaria",
+        "fecha": "27 de julio 2023",
+        "path": "/documents/actas-coefs/2023/JAL/6ORDJAL.pdf"
+      },
+      {
+        "nombre": "7ª Sesión Ordinaria",
+        "fecha": "31 de agosto 2023",
+        "path": "/documents/actas-coefs/2023/JAL/7ORDJAL.pdf"
+      },
+      {
+        "nombre": "8ª Sesión Ordinaria",
+        "fecha": "28 de septiembre 2023",
+        "path": "/documents/actas-coefs/2023/JAL/8ORDJAL.pdf"
+      },
+      {
+        "nombre": "9ª Sesión Ordinaria",
+        "fecha": "26 de octubre 2023",
+        "path": "/documents/actas-coefs/2023/JAL/9ORDJAL.pdf"
+      },
+      {
+        "nombre": "10ª Sesión Ordinaria",
+        "fecha": "30 de noviembre 2023",
+        "path": "/documents/actas-coefs/2023/JAL/10ORDJAL.pdf"
+      }
+    ],
+    "actas2024":[
+      {
+          "nombre": "1ª Sesión Ordinaria",
+          "fecha": "22 de febrero 2024",
+          "path": "En proceso"
+      }
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Jorge Israel García Ochoa",
+        "dep":"Secretaría de Medio Ambiente y Desarrollo Territorial"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Juan Jose LLamas LLamas",
+        "dep":"Secretaría de Medio Ambiente y Desarrollo Territorial"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Joaquin Davia Saldaña Herrera",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Ana Berta Santoyo Diaz",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Antonio Mora Santacruz",
+        "dep":"Universidad de Guadalajara"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación suplente",
+        "nombre":"Agustín Gallegos Rodríguez",
+        "dep":"Universidad de Guadalajara"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Fernando Gúitron Gúzman",
+        "dep":"Comité de Proteccion de los Recursos Naturales Sierra Occidental A.C."
+      },
+      {
+        "integrante":"Sector no Gubernamental suplente",
+        "nombre":"Alejandro Juarez Aguilar",
+        "dep":"Corazón de la Tierra A.C."
+      },
+      {
+        "integrante":"Sector Gubernamental Secretaría de Medio Ambiente y Desarrrollo Territorial",
+        "nombre":"Karen Belén Rodríguez Moedano",
+        "dep":"Secretaría de Medio Ambiente y Desarrollo Territorial"
+      },
+      {
+        "integrante":"Sector Gubernamental Secretaría de Medio Ambiente y Desarrollo Territorial suplente",
+        "nombre":"Miguel Valles Pérez",
+        "dep":"Secretaría de Medio Ambiente y Desarrollo Territorial"
+      },
+      {
+        "integrante":"Sector Gubernamental Secretaría de Agricultura y Desarrollo Rural ESTATAL",
+        "nombre":"Alberto Esquer Gutiérrez",
+        "dep":"Secretaría de Agricultura y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Gubernamental Secretaría de Agricultura y Desarrollo Rural ESTATAL suplente",
+        "nombre":"Carlos Alberto Jiménez Garma",
+        "dep":"Secretaría de Agricultura y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Gubernamental FIPRODEFO",
+        "nombre":"Arturo Pizano Portillo",
+        "dep":"FIPRODEFO"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Alejandro Ricardo Sanchez Rosales",
+        "dep":"Cámara Nacional de las Industrias Forestales. Delegación Jalisco"
+      },
+      {
+        "integrante":"Sector Industrial suplente",
+        "nombre":"Luis Fernando Manzur Pérez",
+        "dep":"Centro Articulador del Sector Productivo Forestal de Jalisco A.C."
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"José Alfonso Moreno Jiménez",
+        "dep":"Unión de Asociaciones de Silvicultores del Estado de Jalisco A.C"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales suplente",
+        "nombre":"Luis Arturo Manzano Cueto",
+        "dep":"Comité de Fomento y Protección contra Incendios Forestales Sierra de Tapalpa A.C."
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Guillermo Ramos Pinto",
+        "dep":"Asociacion Mutual de Proteccion Familiar Sección Jalisco A.C."
+      },
+      {
+        "integrante":"Sector Profesional suplente",
+        "nombre":"Fidel Jiménez Mora",
+        "dep":"Colegio de Ingenieros Forestales del Estado de Jalisco . Asociación Mexicana de Profesionales  Forestales A. C. "
+      },
+      {
+        "integrante":"Sector Gubernamental Secretaría de Medio Ambiente y Recursos Naturales",
+        "nombre":"Armando Romero Barajas",
+        "dep":"Secretaría de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental Secretaría de Medio Ambiente y Recursos Naturales suplente",
+        "nombre":"José David García Ramírez",
+        "dep":"Secretaría de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental Procaduria Federal de Proteccion al Ambiente",
+        "nombre":"Martín Francisco Rivera Nuñez",
+        "dep":"Procuraduria Federal de Proteccion al Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental Procaduria Federal de Proteccion al Ambiente suplente",
+        "nombre":"José Juan González",
+        "dep":"Procuraduria Federal de Proteccion al Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental Comisión Nacional de Áreas Naturales Protegidas",
+        "nombre":"Adrian Méndez Barrera",
+        "dep":"Comisión Nacional de Áreas Naturales Protegidas"
+      },
+      {
+        "integrante":"Sector Gubernamental Comisión Nacional de Áreas Naturales Protegidas suplente",
+        "nombre":"Carlos Alberto Gallegos Solorzano",
+        "dep":"Comisión Nacional de Áreas Naturales Protegidas"
+      }
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento de la Ley de Desarrollo Forestal Sustentable para el Estado de Jalisco, en Materia de Consejos Forestales.",
+        "fecha":"10 de junio 2017",
+        "path":"/documents/actas-coefs/reglamentos/JAL.pdf"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "estado": "México",
+    "shortname": "MEX",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "30 de julio 2021",
+        "path": "/documents/actas-coefs/2021/1ORDMEX.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "17 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/EDMX/1ORDMEX.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "17 de marzo 2023",
+        "path": "/documents/actas-coefs/2023/EDMX/1ORDMEX.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno del Consejo Forestal del Estado de México.",
+        "fecha":"28 de Noviembre 2019",
+        "path":"/documents/actas-coefs/reglamentos/EDMX.pdf"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "estado": "Michoacán",
+    "shortname": "MICH",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "28 de junio 2021",
+        "path": "/documents/actas-coefs/2021/1ORDMICH.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "26 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/2ORDMICH.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "28 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDMICH.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"07 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/MICH/1ORDMICH.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "09 de junio 2022",
+        "path": "/documents/actas-coefs/2022/MICH/1EXTRAORDMICH.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "18 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/MICH/2EXTRAORDMICH.pdf"
+      }
+    ],
+    "actas2023": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "23 de junio 2023",
+        "path": "/documents/actas-coefs/2023/MICH/1ORDMICH.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "05 de septiembre 2023",
+        "path": "/documents/actas-coefs/2023/MICH/2ORDMICH.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Alfredo Ramírez Bedolla",
+        "dep":"Gobierno del Estado de Michoacán"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Rosendo A. Caro Gómez",
+        "dep":"Comisión Forestal del Estado de Michoacán"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Víctor Manuel Quiñónez Arroyo",
+        "dep":"Promotoría de Desarrollo Forestal en Michoacán de la Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"José Diego Bárcenas Torres",
+        "dep":"Instituto Tecnológico del Valle de Morelia"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Alberto Gómez-Tagle Chávez",
+        "dep":"Instituto de Investigaciones sobre los Recursos Naturales de la Universidad Michoacana de San Nicolás de Hidalgo"
+      },
+      {
+        "integrante":"Sector Ejidos",
+        "nombre":"Fernando Rangel Martínez",
+        "dep":"Ejido de Villa Madero, municipio de Madero"
+      },
+      {
+        "integrante":"Sector Ejidos",
+        "nombre":"Rodolfo Tello Arteaga",
+        "dep":"Ejido La Granja, municipio de Hidalgo"
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"María de los Ángeles González Ramos",
+        "dep":"Comunidad Indígena de Comachuén, municipio de Nahuatzen"
+      },
+      {
+        "integrante":"Comunidad Indígena de Comachuén, municipio de Nahuatzen",
+        "nombre":"Oswaldo Camacho Mateos",
+        "dep":"Comunidad Indigena de San Jerónimo Purenchécuaro, municipio de Quiroga"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Ricardo Luna García",
+        "dep":"Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Luciano José Grobet Vallarta",
+        "dep":"Instituto de Planeación del Estado de Michoacán de Ocampo"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Rogelio Abraham Moreno Marín",
+        "dep":"Cámara Nacional de la Industria Maderera, Delegación Michoacán"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Abel Tello Gallegos",
+        "dep":"Resinera 'Lazaro Cardenas' ARIC de RI"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Miguel Ángel Ramos Pérez",
+        "dep":"Asociación de Dueños de Montes de los Municipios de Aguililla y Coalcomán A.C."
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Rafael Zapien Ávila",
+        "dep":"Asociación de Dueños de Montes de los Municipios de Aguililla y Coalcomán A.C."
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Francisco Javier Hinojosa Aguirre",
+        "dep":"Asociación Mexicana de Profesionales Forestales A.C."
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Juan Magaña Morfín ",
+        "dep":"Asociación Nacional de Egresados de la Escuela de Guardas y Técnicos Forestales de Uruapan, Michoacán"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Tarsicio Dávalos Galván",
+        "dep":"Asociación de Silvicultores del Estado de Michoacán 'Lázaro Cárdenas'"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Guillermo Ullibarri Daumas",
+        "dep":"Unidad de Manejo Forestal Pátzcuaro-Tierra Caliente A.C."
+      },
+      {
+        "integrante":"Sector Ambientalista",
+        "nombre":"Guillermo Ramos Solorio",
+        "dep":" Unión de Productores y Conservadores de Vida Silvestre de Michoacán A.C."
+      },
+      {
+        "integrante":"Sector Ambientalista",
+        "nombre":"Gilberto López Guzmán",
+        "dep":"Consejo Estatal de Ecología"
+      }
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interior del Consejo Estatal Forestal de Michoacán.",
+        "fecha":"1 de julio 2005",
+        "path":"/documents/actas-coefs/reglamentos/MICH.pdf"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "estado": "Morelos",
+    "shortname": "MOR",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "19 de febrero 2021",
+        "path": "/documents/actas-coefs/2021/1ORDMOR.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "30 de abril 2021",
+        "path": "/documents/actas-coefs/2021/2ORDMOR.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "23 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/3ORDMOR.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "26 de octubre 2021",
+        "path": "/documents/actas-coefs/2021/4ORDMOR.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Ordinaria",
+        "fecha": "10 de diciembre 2021",
+        "path": "/documents/actas-coefs/2021/5ORDMOR.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"12 de junio 2020",
+        "path":"/documents/actas-coefs/2020/MOR/1EXTRAORDMOR.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"11 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/MOR/1ORDMOR.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Extraordinaria",
+        "fecha":"18 de junio 2020",
+        "path":"/documents/actas-coefs/2020/MOR/2EXTRAORDMOR.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "18 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/MOR/1ORDMOR.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "25 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/MOR/2ORDMOR.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "09 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/1EXTRAORDMOR.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "13 de junio 2022",
+        "path": "/documents/actas-coefs/2022/MOR/2EXTRAORDMOR.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "18 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/MOR/3ORDMOR.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "29 de noviembre 2022",
+        "path": "/documents/actas-coefs/2022/MOR/4ORDMOR.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"17 de enero 2023",
+        "path":"/documents/actas-coefs/2023/MOR/1EXTRAORDMOR.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"21 de febrero 2023",
+        "path":"/documents/actas-coefs/2023/MOR/1ORDMOR.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Extraordinaria",
+        "fecha":"25 de abril 2023",
+        "path":"/documents/actas-coefs/2023/MOR/2EXTRAORDMOR.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"25 de mayo 2023",
+        "path":"/documents/actas-coefs/2023/MOR/2ORDMOR.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"22 de agosto 2023",
+        "path":"/documents/actas-coefs/2023/MOR/3ORDMOR.pdf"
+      },
+      {
+        "nombre":"4ª Sesión Ordinaria",
+        "fecha":"28 de noviembre 2023",
+        "path":"/documents/actas-coefs/2023/MOR/4ORDMOR.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interior Consejo Estatal Forestal Del Estado de Morelos.",
+        "fecha":"06 de diciembre 2011",
+        "path":"/documents/actas-coefs/reglamentos/MOR.pdf"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "estado": "Nayarit",
+    "shortname": "NAY",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "23 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1ORDNAY.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "25 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/2ORDNAY.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"7 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/NAY/1EXTRAORDNAY.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "20 de abril 2022",
+        "path": "/documents/actas-coefs/2022/NAY/1ORDNAY.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "N/A",
+        "fecha": "N/A",
+        "path": "N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Miguel Ángel Navarro Quintero",
+        "dep":"Gobierno Constitucional del Estado de Nayarit "
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Roberto Barreto Alonso",
+        "dep":"Dirección General de la Comisión Forestal de Nayarit"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Pedro Ornelas Ibáñez ",
+        "dep":"Promotoría de Desarrollo Forestal de la Comision Nacional Forestal en Nayarit"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Serafín Sánchez Ochoa ",
+        "dep":"Departamento de Manejo Forestal Comunitario "
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Norma Liliana Gálvan Meza",
+        "dep":"Universidad Autónoma de Nayarit"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación ",
+        "nombre":"Job Oswaldo Bugarin Prado",
+        "dep":"Universidad Autónoma de Nayarit "
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Jose  Vera  Ruíz",
+        "dep":"ONG "
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"César  Octavio Lara Fonseca",
+        "dep":"Secretaría de Desarrollo Sustentable "
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Carlos Amador Jaime Nolasco",
+        "dep":"Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en la Entidad Federativa de Nayarit"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"José de Jesús  Romero Villarruel",
+        "dep":"Departamento de Vida Silvestre y  Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Martín Valentín Vargas ",
+        "dep":"Oficina de Representación del Instituto Nacional de los Pueblos Indigenas"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Sergio Ramos Zavala",
+        "dep":"Instituto Nacional de Pueblos Indígenas "
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Sara Noemi Rodriguez Viera",
+        "dep":"Registro Agrario Nacional "
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Jose Guadalupe Rosales Rodriguez ",
+        "dep":"Procuraduria Agraria "
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Victro Hugo Vázquez Morán ",
+        "dep":"Dirección de la Reserva de la Bisofera Marismas Nacionales Nayarit de la Comisión Nacional de Áreas Naturales Protegidas"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Martha Patricia Jurenda Delgado",
+        "dep":"Delegación  Estatal de la  Secretaría  de Bienestar"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Karina Guadalupe López Serrano",
+        "dep":"Procuraduria Federal de Proteccion al Ambiente"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Gilberto Oscar Casillas Barajas ",
+        "dep":"Secretaría de Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Germán Ortega Rosales ",
+        "dep":"Industriales Forestales"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Jesús Alfonso Solís Venegas",
+        "dep":"Asociación de Profesionistas Forestales"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Juan Rangel Guzmán ",
+        "dep":"Asociación de Profesionistas Forestales"
+      }
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interno Consejo Estatal Forestal Estado de Nayarit.",
+        "fecha": "12 de octubre 2006",
+        "path":"/documents/actas-coefs/reglamentos/NAY.pdf"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "estado": "Nuevo León",
+    "shortname": "NL",
+    "actas2021": [
+      {
+        "nombre": "182ª Sesión Ordinaria",
+        "fecha": "19 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/182ORDNL.pdf"
+      },
+      {
+        "nombre": "183ª Sesión Ordinaria",
+        "fecha": "09 de junio 2021",
+        "path": "/documents/actas-coefs/2021/183ORDNL.pdf"
+      },
+      {
+        "nombre": "184ª Sesión Ordinaria",
+        "fecha": "20 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/184ORDNL.pdf"
+      },
+      {
+        "nombre":"177ª Sesión Ordinaria",
+        "fecha":"31 de enero 2020",
+        "path":"/documents/actas-coefs/2020/NL/177ORDNL.pdf"
+      },
+      {
+        "nombre":"178ª Sesión Ordinaria",
+        "fecha":"28 de febrero 2020",
+        "path":"/documents/actas-coefs/2020/NL/178ORDNL.pdf"
+      },
+      {
+        "nombre":"179ª Sesión Ordinaria",
+        "fecha":"27 de agosto 2020",
+        "path":"/documents/actas-coefs/2020/NL/179ORDNL.pdf"
+      },
+      {
+        "nombre":"180ª Sesión Ordinaria",
+        "fecha":"05 de noviembre 2020",
+        "path":"/documents/actas-coefs/2020/NL/180ORDNL.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "185ª Sesión Ordinaria",
+        "fecha": "09 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/NL/185ORD.pdf"
+      },
+      {
+        "nombre": "186ª Sesión Ordinaria",
+        "fecha": "21 de julio 2022",
+        "path": "/documents/actas-coefs/2022/NL/186ORD.pdf"
+      },
+      {
+        "nombre": "187ª Sesión Ordinaria",
+        "fecha": "19 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/NL/187ORD.pdf"
+      },
+      {
+        "nombre": "188ª Sesión Ordinaria",
+        "fecha": "20 de octubre 2022",
+        "path": "/documents/actas-coefs/2022/NL/188ORD.pdf"
+      },
+      {
+        "nombre": "189ª Sesión Ordinaria",
+        "fecha": "01 de diciembre 2022",
+        "path": "/documents/actas-coefs/2022/NL/189ORD.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "190ª Sesión Ordinaria",
+        "fecha": "03 de febrero 2023",
+        "path": "/documents/actas-coefs/2023/NL/190ORD.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interno Consejo Estatal Forestal Estado de Nuevo Leon-(CEFNL).",
+        "fecha": "",
+        "path": "/documents/actas-coefs/reglamentos/NL.pdf"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "estado": "Oaxaca",
+    "shortname": "OAX",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "12 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDOAX.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "20 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/2EXTRAORDOAX.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"12 de marzo 2020",
+        "path":"/documents/actas-coefs/2020/OAX/1EXTRAORDOAX.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "19 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/OAX/2EXTRAORDOAX.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Salomón Jara Cruz",
+        "dep":"Gobieno del Estado de Oaxaca"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Magdalena María Coello Castillo",
+        "dep":"Comisión Estatal Forestal"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Abraham Sánchez Martínez.",
+        "dep":"Secretaría del Medio Ambiente y Recursos Naturales en el Estado"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Oscar Mejía Gómez.",
+        "dep":"Promotoría de Desarrollo Forestal en Oaxaca de la Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Estatal ",
+        "nombre":"Víctor López Leyva.",
+        "dep":"Secretaría de Fomento Agroalimentario y Desarrollo Rural"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Estatal ",
+        "nombre":"Neftalí Amigdael López Hernández",
+        "dep":"Dirección General de la Comisión Estatal del Agua"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Estatal",
+        "nombre":"Rodrigo Jarquín Santos",
+        "dep":"Junta de Conciliación Agraria del Estado de Oaxaca"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Estatal",
+        "nombre":"Karime Unda Harp",
+        "dep":"Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Estatal",
+        "nombre":"Elisa Zepeda Lagunas",
+        "dep":"Secretaría de las Mujeres"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Estatal",
+        "nombre":"Bertha Ruth Arreola Ruiz",
+        "dep":"Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Abelardo Mendoza Sánchez",
+        "dep":"Secretaría de Desarrollo Agrario, Territorial y Urbano"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Carolina Ojeda Martínez",
+        "dep":"Secretaría de Agricultura y Desarrollo Rural en el Estado"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Pavel Palacios Chávez",
+        "dep":"Dirección de la Región Frontera Sur, Istmo y Pacifico Sur de la Comisión Nacional de Áreas Naturales Protegidas"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Jerónimo López Marín",
+        "dep":"Oficina de Representación del Instituto Nacional de Pueblos Indígenas en Oaxaca"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Gonzalo Villalobos López",
+        "dep":"Procuraduría Agraria"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Oscar Bolaños Morales",
+        "dep":"Oficina de Representación de Protección Ambiental de la Procuraduría Federal de Protección al Ambiente"
+      },
+      {
+        "integrante":"Sector institucional Gobierno Federal",
+        "nombre":"Miguel Ángel Martínez Cordero",
+        "dep":"Dirección General del Organismo de Cuenca Pacífico sur de la Comisión Nacional del Agua"
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Daniel García Toledo",
+        "dep":"Unidad de Manejo Forestal Istmo-Pacífico A.C."
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Gabriel Manuel Santiago",
+        "dep":"Comité Regional de Recursos Naturales Sierra Sur Miahuatlán-Pochutla, A.C."
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Artemio Aquino Vargas",
+        "dep":"Unión de Comunidades de la Sierra Juárez, A.C."
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Prisciliano Aquilino Espinoza Rojas",
+        "dep":"Comité Regional de Recursos Naturales de la Zona Centro de Huajuapan de León"
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Isaías Guillermo Jiménez Pérez",
+        "dep":"Unión de Comunidades Productoras Forestales Zapotecas y Chinantecas de la Sierra Juárez de R.I."
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Fidel Mayren Sánchez",
+        "dep":"Comité Regional de Recursos Naturales de la Mixteca, Tlaxiaco-Putla-Juxtlahuaca"
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Rubén David cruz Pérez",
+        "dep":"Consejo Regional de Recursos Naturales de la Región Cañada de Oaxaca, A.C."
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"Cándido Santibáñez Canseco",
+        "dep":"Comité de Recursos Naturales Mixe Choapan, A.C."
+      },
+      {
+        "integrante":"Sector Social",
+        "nombre":"José Jaime Morales Aquino",
+        "dep":"Unión de Comunidades Zapotecas y Chinantecas de la Región de Villa Alta – Petlapa, A.C."
+      },
+      {
+        "integrante":"Sector de la Industria Forestal",
+        "nombre":"Israel Santiago García",
+        "dep":"Unión de Productores Industriales Forestales de Oaxaca,A.C."
+      },
+      {
+        "integrante":"Sector de la Industria Forestal",
+        "nombre":"Héctor Alejandro Vázquez Argüelles",
+        "dep":"Asociación Oaxaqueña de Empresas Fabricantes de Muebles, A.C."
+      },
+      {
+        "integrante":"Sector de la Industria Forestal",
+        "nombre":"Cristóbal Palacios Gómez",
+        "dep":"Unión de Madereros y Similares “BENITO JÚAREZ”"
+      },
+      {
+        "integrante":"Sector de la Industria Forestal",
+        "nombre":"Ricardo Aguirre Perea",
+        "dep":"Cámara Nacional de la Industria Maderera"
+      },
+      {
+        "integrante":"Sector Académico",
+        "nombre":"Arturo Nava Zafra",
+        "dep":"Dirección Académica del Centro de Educación y Capacitación Forestal #2"
+      },
+      {
+        "integrante":"Sector Académico",
+        "nombre":"Miguel Ángel Cano García",
+        "dep":"Dirección de Coordinación y Vinculación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en el estado de Oaxaca"
+      },
+      {
+        "integrante":"Sector Académico",
+        "nombre":"Marisa Guadalupe Flores Aguilar",
+        "dep":"Dirección del Instituto Tecnológico del Valle de Oaxaca"
+      },
+      {
+        "integrante":"Sector Académico",
+        "nombre":"Salvador Isidro Belmonte Jiménez",
+        "dep":"Centro Interdisciplinario de Investigación para el Desarrollo Integral Regional Unidad Oaxaca"
+      },
+      {
+        "integrante":"Sector Académico",
+        "nombre":"María de los Ángeles Peralta Arias",
+        "dep":"Universidad de la Sierra Juárez"
+      },
+      {
+        "integrante":"Sector de Servicios Técnicos Forestales Privados",
+        "nombre":"César Félix Castillo González",
+        "dep":"Asociación de Profesionales de Servicios Técnicos Forestales de Oaxaca, A.C."
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Linda Swietenia Almaraz Almaraz",
+        "dep":"Colegio de Profesionales  Forestales de Oaxaca A. C."
+      },
+      {
+        "integrante":"Sector Institucional Gobierno del Estado",
+        "nombre":"Manuel Alejandro Acevedo Cruz",
+        "dep":"Procuraduría de Protección al Medio Ambiente del Estado de Oaxaca"
+      },
+      {
+        "integrante":"Sector Institucional Gobierno del Estado",
+        "nombre":"José de Jesús Romero López",
+        "dep":"Secretaría de Gobierno"
+      },
+      {
+        "integrante":"Sector Institucional Gobierno Federal",
+        "nombre":"Froylan Silvestre Martinez Rojas",
+        "dep":"Parque Nacional Benito Juárez y del Monumento Natural Yagul, Dirección Frontera Sur, Istmo y Pacífico Sur-CONANP"
+      },
+      {
+        "integrante":"Sector Institucional Gobierno Federal",
+        "nombre":"Fernando Reyes Flores",
+        "dep":"Dirección Comisión Nacional de Áreas Naturales Protegidas Tehuacán-Cuicatlán"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"José Velázquez Martínez",
+        "dep":"Unidad de riesgo Comisión Nacional de Áreas Naturales Protegidas"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Iván García Álvarez",
+        "dep":"Secretaría de Seguridad y Protección Ciudadana de Oaxaca del Gobierno del Estado"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"José Bernardo Rodríguez Alamilla",
+        "dep":"Fiscalía General del Estado de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Jaime Porfirio García Belio",
+        "dep":"Delegación Estatal de la Fiscalía General de la Republica de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Lucio Vergara Gómez",
+        "dep":"Coordinación Estatal de la Guardia Nacional en Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Jorge Alejandro Gutiérrez Martínez",
+        "dep":"Comandancia de La 28ª Zona Militar Secretaría de la Defensa Nacional"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Inocente Prado López",
+        "dep":"Comandancia de la Octava Región Militar Secetraría de la Defensa Nacional "
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Mauro Cruz Sánchez",
+        "dep":"Coordinación Estatal de Protección Civil de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Emilio Montero Pérez",
+        "dep":"Dirección General del Instituto Estatal de Educación Pública de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Manuel Alberto Maza Sánchez",
+        "dep":"Dirección del Heroico Cuerpo de Bomberos del Estado de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Rodolfo Darío Brena Güereca",
+        "dep":"Dirección de Protección Civil del Municipio de Oaxaca de Juárez"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Alma Lilia Velasco Hernández",
+        "dep":"Secretaría de Salud y Director General de los Servicios de Salud de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Maximiliano Antonio Hernández",
+        "dep":"Unión Estatal de Silvicultores Comunitarios de Oaxaca"
+      },
+      {
+        "integrante":"Invitado Permanente",
+        "nombre":"Cuauhtémoc Almazán Cravioto",
+        "dep":"Dirección General del Hangar Oficial Del Gobierno del Estado"
+      }
+    ],
+    "reglamento":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"En proceso"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "estado": "Puebla",
+    "shortname": "PUE",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "05 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1ORDPUE.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "18 de mayo 2021",
+        "path": "/documents/actas-coefs/2021/2ORDPUE.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "17 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/3ORDPUE.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "11 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/PUE/1ORDPUE.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "18 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/PUE/1EXTRAORDPUE.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "25 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/PUE/2ORDPUE.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+          "nombre": "1ª Sesión Ordinaria",
+          "fecha": "09 de febrero 2023",
+          "path": "/documents/actas-coefs/2023/PUE/1ORDPUE.pdf"
+      },
+      {
+
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "08 de mayo 2023",
+        "path": "/documents/actas-coefs/2023/PUE/2ORDPUE.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno del Consejo Estatal Forestal en Puebla",
+        "fecha": "2017",
+        "path":"/documents/actas-coefs/reglamentos/PUE.pdf"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "estado": "Querétaro",
+    "shortname": "QTO",
+    "actas2021":[
+      {
+        "nombre":"16ª Sesión Ordinaria",
+        "fecha":"10 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/QRO/16ORDQRO.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "30 de junio 2022",
+        "path": "En proceso"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno del Consejo Forestal del Estado de Querétaro.",
+        "fecha":"12 de Febrero 2004",
+        "path":"/documents/actas-coefs/reglamentos/QRO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "estado": "Quintana Roo",
+    "shortname": "QROO",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "20 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1ORDQROO.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "15 de octubre 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDQROO.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"15 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/QROO/1ORDQROO.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "19 de abril 2022",
+        "path": "/documents/actas-coefs/2022/QROO/1ORDQROO.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "16 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/QROO/2ORDQROO.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Mara Lezama Espinosa",
+        "dep":"Gobierno de Quintana Roo"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Huguette Hernández",
+        "dep":"Secretaría de Ecología y Medio Ambiente"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"José Javier May Cha",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Carlos Andrés Prezas Serrrano",
+        "dep":"Comisión Nacional Forestal"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Pedro Antonio Macario Mendoza",
+        "dep":"El Colegio de la Frontera Sur"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"María Angelica Navarro Martinez",
+        "dep":"El Colegio de la Frontera Sur"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Gonzalo Merediz Alonzo",
+        "dep":"Amigos de Siankaan"
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Miguel Arcangel Cante Chuc",
+        "dep":"Red de Productores de Servicios Ambientales “Ya’ax Sot’ Ot’ Yook’ol Kaab” A.C."
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Miguel Ku Balam",
+        "dep":"Red de Productores de Servicios Ambientales “Ya’ax Sot’ Ot’ Yook’ol Kaab” A.C."
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"María Guadalupe Estrada Ramiréz",
+        "dep":"Secretaría de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Yolanda Medina Gamez",
+        "dep":"Secretaria de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"José Luis Azaura Salas",
+        "dep":"Particular"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Elmer Santiago Vazquez Chable",
+        "dep":"Particular"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Celso Chan Rivas",
+        "dep":"Asesor Tecnico"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"David del Angel Santos",
+        "dep":"Asesor Tecnico"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Emanuel Miss Pech",
+        "dep":"UEFES"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Cristóbal Medina",
+        "dep":"Coordinadora de Campesinos Forestales de Quintana Roo"
+      }
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Consejo Estatal Forestal Estado de Quintana Roo.",
+        "fecha":"N/A",
+        "path":"/documents/actas-coefs/reglamentos/QROO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "estado": "San Luis Potosí",
+    "shortname": "SLP",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "18 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/1ORDSLP.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "18 de junio 2021",
+        "path": "/documents/actas-coefs/2021/1ORDSLP.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "19 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDSLP.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "17 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/3ORDSLP.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "19 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/4ORDSLP.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"7 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/SLP/1ORDSLP.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "18 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/SLP/1ORDSLP.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "18 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/SLP/2ORDSLP.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "18 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/SLP/3ORDSLP.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"30 de marzo 2023",
+        "path":"/documents/actas-coefs/2023/SLP/1ORDSLP.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"30 de junio 2023",
+        "path":"/documents/actas-coefs/2023/SLP/2ORDSLP.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"02 de octubre 2023",
+        "path":"/documents/actas-coefs/2023/SLP/3ORDSLP.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Consejo Estatal Forestal Estado de San Luis Potosí.",
+        "fecha":"25 de enero 2017",
+        "path":"/documents/actas-coefs/reglamentos/SLP.pdf"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "estado": "Sinaloa",
+    "shortname": "SIN",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "30 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDSIN.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "19 de abril 2022",
+        "path": "/documents/actas-coefs/2022/SIN/1EXTRAORDSIN.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "23 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/SIN/2ORDSIN.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "24 de mayo 2023",
+        "path": "/documents/actas-coefs/2023/SIN/1EXTRAORDSIN.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interno del Consejo Estatal Forestal Sinaloa.",
+        "fecha": "25 de Febrero 2003",
+        "path": "/documents/actas-coefs/2022/SIN/1EXTRAORDSIN.pdf"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "estado": "Sonora",
+    "shortname": "SON",
+    "actas2021":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+      
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+        {
+          "nombre":"Reglamento Interno Consejo Estatal Forestal de Sonora.",
+          "fecha":"06 de Agosto 2009",
+          "path":"/documents/actas-coefs/reglamentos/SON.pdf"
+        }
+    ]
+  },
+  {
+    "id": 27,
+    "estado": "Tabasco",
+    "shortname": "TAB",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "24 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/1ORDTAB.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "7 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/TAB/1ORDTAB.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+      
+    ],
+    "directorio":[
+      {
+        "integrante":"Presidente",
+        "nombre":"Jorge Suarez Vela",
+        "dep":"Secretaría de Desarrollo Agropecaurio Forestal y Pesca"
+      },
+      {
+        "integrante":"Presidente Suplente",
+        "nombre":"Carlos Miguel Garcia Bojalil",
+        "dep":"Comision Estatal Forestal"
+      },
+      {
+        "integrante":"Secretario Técnico",
+        "nombre":"Victor Jesus Zepeda Gomez",
+        "dep":"Promotoria de Desarrollo Forestal en Tabasco"
+      },
+      {
+        "integrante":"Secretario Técnico Suplente",
+        "nombre":"Alfredo Hernandez Camacho",
+        "dep":"Promotoria de Desarrollo Forestal en Tabasco"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Carlos Fredy Ortiz Garcia",
+        "dep":"Colegio de Postgraduados"
+      },
+      {
+        "integrante":"Sector Académico y de Investigación",
+        "nombre":"Carolina Hernández Hernández",
+        "dep":"Dirección de Coordinación y Vinculación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias en Tabasco"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Lilia Fraire Sierra",
+        "dep":"Colegio de Ingenieros Agronomos"
+      },
+      {
+        "integrante":"Sector no Gubernamental",
+        "nombre":"Luis Felipe Zermeño Diaz",
+        "dep":"Comité Estatal de Sanidad Vegetal de Tabasco"
+      },
+      {
+        "integrante":"Sector Comunidades Indígenas",
+        "nombre":"Ebersain Selvan Selvan",
+        "dep":"Ejido Ursulo Galvan"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Salvador Heredia Dominguez",
+        "dep":"Secretaría de Medio Ambiente y Recursos Naturales"
+      },
+      {
+        "integrante":"Sector Gubernamental",
+        "nombre":"Mayra Cecilia Villagomez de los Santos",
+        "dep":"Procuraduría Federal de Protección al Ambiente"
+      },
+      {
+        "integrante":"Sector Industrial",
+        "nombre":"Frank Mario Falco Perez",
+        "dep":"Sector Industrial"
+      },
+      {
+        "integrante":"Sector Pequeños Propietarios / Propietarios y legitimos poseedores de terrenos de usos forestales",
+        "nombre":"Efrain Zepeda Aguilera",
+        "dep":"Beneficiario Plantaciones Forestales Comerciales y Sistemas Agroforestales para el Bienestar"
+      },
+      {
+        "integrante":"Sector Profesional",
+        "nombre":"Felipe Vera Gaxiola",
+        "dep":"Asociación Nacional de Profesionistas Forestales"
+      },
+      {
+        "integrante":"Sector Unidades de Manejo Forestal",
+        "nombre":"Guadalupe Ovando Lopez",
+        "dep":"Unidad de Manejo Forestal -La Solucion Somos Todos"
+      }
+
+    ],
+    "reglamento":[
+        {
+          "nombre":"Reglamento Interno Consejo Estatal Forestal de Tabasco.",
+          "fecha":"16 de Julio 2021",
+          "path":"/documents/actas-coefs/reglamentos/TAB.pdf"
+        }
+    ]
+  },
+  {
+    "id": 28,
+    "estado": "Tamaulipas",
+    "shortname": "TAM",
+    "actas2021":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+      "actas2022":[
+        {
+          "nombre":"N/A",
+          "fecha":"N/A",
+          "path":"N/A"
+        }
+    ],
+    "actas2023":[
+       {
+          "nombre":"1ª Sesión de Instalación",
+          "fecha":"10 de abril 2023",
+          "path":"/documents/actas-coefs/2023/TAM/1INSTALTAM.pdf"
+        }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre":"Ley de Desarrollo Forestal Sustentable para el Estado de Tamaulipas.",
+        "fecha":"05 de Junio 2007",
+        "path":"/documents/actas-coefs/reglamentos/TAM.pdf"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "estado": "Tlaxcala",
+    "shortname": "TLAX",
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "06 de abril 2022",
+        "path": "/documents/actas-coefs/2022/TLAX/1EXTRAORDTLAX.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "02 de junio 2022",
+        "path": "/documents/actas-coefs/2022/TLAX/1ORDTLAX.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "16 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/TLAX/2ORDTLAX.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "27 de octubre 2022",
+        "path": "/documents/actas-coefs/2022/TLAX/3ORDTLAX.pdf"
+      }
+    ],
+    "actas2023":[
+        {
+          "nombre": "N/A",
+          "fecha": "N/A",
+          "path": "N/A"
+        }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+      {
+        "nombre": "Reglamento Interno Consejo Forestal Estatal Tlaxcala.",
+        "fecha": "",
+        "path": "/documents/actas-coefs/reglamentos/TLAX.pdf"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "estado": "Veracruz",
+    "shortname": "VER",
+    "actas2021": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "19 de enero 2021",
+        "path": "/documents/actas-coefs/2021/1ORDVER.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "29 de enero 2021",
+        "path": "/documents/actas-coefs/2021/1EXTRAORDVER.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "16 de marzo 2021",
+        "path": "/documents/actas-coefs/2021/2ORDVER.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "20 de abril 2021",
+        "path": "/documents/actas-coefs/2021/3ORDVER.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "18 de mayo 2021",
+        "path": "/documents/actas-coefs/2021/4ORDVER.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Ordinaria",
+        "fecha": "15 de junio 2021",
+        "path": "/documents/actas-coefs/2021/5ORDVER.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Ordinaria",
+        "fecha": "20 de julio 2021",
+        "path": "/documents/actas-coefs/2021/6ORDVER.pdf"
+      },
+      {
+        "nombre": "7ª Sesión Ordinaria",
+        "fecha": "17 de agosto 2021",
+        "path": "/documents/actas-coefs/2021/7ORDVER.pdf"
+      },
+      {
+        "nombre": "8ª Sesión Ordinaria",
+        "fecha": "21 de septiembre 2021",
+        "path": "/documents/actas-coefs/2021/8ORDVER.pdf"
+      },
+      {
+        "nombre": "9ª Sesión Ordinaria",
+        "fecha": "19 de octubre 2021",
+        "path": "/documents/actas-coefs/2021/9ORDVER.pdf"
+      },
+      {
+        "nombre": "10ª Sesión Ordinaria",
+        "fecha": "16 de noviembre 2021",
+        "path": "/documents/actas-coefs/2021/10ORDVER.pdf"
+      },
+      {
+        "nombre": "11ª Sesión Ordinaria",
+        "fecha": "13 de diciembre 2021",
+        "path": "/documents/actas-coefs/2021/11ORDVER.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Extraordinaria",
+        "fecha":"21 de mayo 2020",
+        "path":"/documents/actas-coefs/2020/VER/1EXTRAORDVER.pdf"
+      },
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"28 de enero 2020",
+        "path":"/documents/actas-coefs/2020/VER/1ORDVER.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Extraordinaria",
+        "fecha":"24 de septiembre 2020",
+        "path":"/documents/actas-coefs/2020/VER/2EXTRAORDVER.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"18 de febrero 2020",
+        "path":"/documents/actas-coefs/2020/VER/2ORDVER.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"16 de junio 2020",
+        "path":"/documents/actas-coefs/2020/VER/3ORDVER.pdf"
+      },
+      {
+        "nombre":"4ª Sesión Ordinaria",
+        "fecha":"18 de agosto 2020",
+        "path":"/documents/actas-coefs/2020/VER/4ORDVER.pdf"
+      },
+      {
+        "nombre":"5ª Sesión Ordinaria",
+        "fecha":"20 de octubre 2020",
+        "path":"/documents/actas-coefs/2020/VER/5ORDVER.pdf"
+      },
+      {
+        "nombre":"6ª Sesión Ordinaria",
+        "fecha":"17 de noviembre 2020",
+        "path":"/documents/actas-coefs/2020/VER/6ORDVER.pdf"
+      },
+      {
+        "nombre":"7ª Sesión Ordinaria",
+        "fecha":"8 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/VER/7ORDVER.pdf"
+      }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "18 de enero 2022",
+        "path": "/documents/actas-coefs/2022/VER/1ORDVER.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "15 de febrero 2022",
+        "path": "/documents/actas-coefs/2022/VER/2ORDVER.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+        "fecha": "15 de marzo 2022",
+        "path": "/documents/actas-coefs/2022/VER/3ORDVER.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "19 de abril 2022",
+        "path": "/documents/actas-coefs/2022/VER/4ORDVER.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Ordinaria",
+        "fecha": "17 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/VER/5ORDVER.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Ordinaria",
+        "fecha": "21 de junio 2022",
+        "path": "/documents/actas-coefs/2022/VER/6ORDVER.pdf"
+      },
+      {
+        "nombre": "7ª Sesión Ordinaria",
+        "fecha": "19 de julio 2022",
+        "path": "/documents/actas-coefs/2022/VER/7ORDVER.pdf"
+      },
+      {
+        "nombre": "8ª Sesión Ordinaria",
+        "fecha": "23 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/VER/8ORDVER.pdf"
+      },
+      {
+        "nombre": "9ª Sesión Ordinaria",
+        "fecha": "20 de septiembre 2022",
+        "path": "/documents/actas-coefs/2022/VER/9ORDVER.pdf"
+      },
+      {
+        "nombre": "10ª Sesión Ordinaria",
+        "fecha": "18 de octubre 2022",
+        "path": "/documents/actas-coefs/2022/VER/10ORDVER.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+      
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno del Consejo Estatal Forestal de Veracruz de Ignacio de la Llave.",
+        "fecha":"03 de Mayo 2016",
+        "path":"/documents/actas-coefs/reglamentos/VER.pdf"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "estado": "Yucatán",
+    "shortname": "YUC",
+    "actas2021": [
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "04 de mayo 2022",
+        "path": "/documents/actas-coefs/2022/YUC/4ORDYUC.pdf"
+      },
+      {
+        "nombre":"2ª Sesión Ordinaria",
+        "fecha":"29 de julio 2020",
+        "path":"/documents/actas-coefs/2020/YUC/2ORDYUC.pdf"
+      },
+      {
+        "nombre":"3ª Sesión Ordinaria",
+        "fecha":"14 de diciembre 2020",
+        "path":"/documents/actas-coefs/2020/YUC/1ORDYUC.pdf"
+      }
+    ],
+    "actas2022":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"N/A",
+        "fecha":"N/A",
+        "path":"N/A"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+
+    ],
+    "reglamento":[
+        {
+          "nombre":"N/A",
+          "fecha":"N/A",
+          "path":"N/A"
+        }
+      ]
+  },
+  {
+    "id": 32,
+    "estado": "Zacatecas",
+    "shortname": "ZAC",
+    "actas2021":[
+        {
+          "nombre": "1ª Sesión Ordinaria",
+          "fecha": "19 de marzo 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/1ORDZAC.pdf"
+        },
+        {
+          "nombre": "1ª Sesión Extraordinaria",
+          "fecha": "13 de abril 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/1EXTRAORDZAC.pdf"
+        },
+        {
+          "nombre": "2ª Sesión de Ordinaria",
+          "fecha": "18 de junio 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/2ORDZAC.pdf"
+        },
+        {
+          "nombre": "2ª Sesión Extraordinaria",
+          "fecha": "06 de agosto 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/2ORDZAC.pdf"
+        },
+        {
+          "nombre": "3ª Sesión de Ordinaria",
+          "fecha": "30 de septiembre 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/3ORDZAC.pdf"
+        },
+        {
+          "nombre": "4ª Sesión Ordinaria",
+          "fecha": "26 de noviembre 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/4ORDZAC.pdf"
+        },
+        {
+          "nombre": "3ª Sesión Extraordinaria",
+          "fecha": "13 de diciembre 2021",
+          "path": "/documents/actas-coefs/2021/ZAC/3EXTRAORDZAC.pdf"
+        },
+        {
+          "nombre": "1ª Sesión Extraordinaria",
+          "fecha": "11 de septiembre 2020",
+          "path": "/documents/actas-coefs/2020/ZAC/1EXTRAORDZAC.pdf"
+        },
+        {
+          "nombre": "1ª Sesión Ordinaria",
+          "fecha": "30 de junio 2020",
+          "path": "/documents/actas-coefs/2020/ZAC/1ORDZAC.pdf"
+        },
+        {
+          "nombre": "2ª Sesión Ordinaria",
+          "fecha": "11 de diciembre 2020",
+          "path": "/documents/actas-coefs/2020/ZAC/2ORDZAC.pdf"
+        }
+    ],
+    "actas2022": [
+      {
+        "nombre": "1ª Sesión Ordinaria",
+        "fecha": "11 de marzo 2022",
+        "path": "/documents/actas-coefs/2022/ZAC/1ORDZAC.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Ordinaria",
+        "fecha": "10 de junio 2022",
+        "path": "/documents/actas-coefs/2022/ZAC/2ORDZAC.pdf"
+      },
+      {
+        "nombre": "1ª Sesión Extraordinaria",
+        "fecha": "16 de agosto 2022",
+        "path": "/documents/actas-coefs/2022/ZAC/1EXTRAORDZAC.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Ordinaria",
+        "fecha": "15 de noviembre 2022",
+        "path": "/documents/actas-coefs/2022/ZAC/4ORDZAC.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Extraordinaria",
+        "fecha": "16 de diciembre 2022",
+        "path": "/documents/actas-coefs/2022/ZAC/3EXTRAORZAC.pdf"
+      }
+    ],
+    "actas2023":[
+      {
+        "nombre":"1ª Sesión Ordinaria",
+        "fecha":"19 de enero 2023",
+        "path":"/documents/actas-coefs/2023/ZAC/1ORDZAC.pdf"
+      },
+      {
+          "nombre": "1ª Sesión Extraordinaria",
+          "fecha": "31 de enero 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/1EXTRAORDZAC.pdf"
+      },
+      {
+          "nombre": "2ª Sesión Ordinaria",
+          "fecha": "26 de abril 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/2ORDZAC.pdf"
+      },
+      {
+        "nombre": "2ª Sesión Extraordinaria",
+        "fecha": "19 de mayo 2023",
+        "path": "/documents/actas-coefs/2023/ZAC/2EXTRAORDZAC.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Extraordinaria",
+          "fecha": "05 de junio 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/3EXTRAORDZAC.pdf"
+      },
+      {
+        "nombre": "4ª Sesión Extraordinaria",
+          "fecha": "27 de junio 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/4EXTRAORDZAC.pdf"
+      },
+      {
+        "nombre": "3ª Sesión Ordinaria",
+          "fecha": "14 de agosto 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/3ORDZAC.pdf"
+      },
+      {
+        "nombre": "5ª Sesión Extraordinaria",
+          "fecha": "23 de agosto 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/5EXTRAORDZAC.pdf"
+      },
+      {
+        "nombre": "6ª Sesión Extraordinaria",
+          "fecha": "07 de septiembre 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/6EXTRAORDZAC.pdf"
+      },
+      {
+        "nombre": "7ª Sesión Extraordinaria",
+          "fecha": "05 de octubre 2023",
+          "path": "/documents/actas-coefs/2023/ZAC/7EXTRAORDZAC.pdf"
+      }
+    ],
+    "actas2024":[
+
+    ],
+    "directorio":[
+     
+    ],
+    "reglamento":[
+      {
+        "nombre":"Reglamento Interno Del Consejo Estatal Forestal de Zacatecas",
+        "fecha":"2011",
+        "path":"/documents/actas-coefs/reglamentos/ZAC.pdf"
+      }
+    ]
+  }
+]

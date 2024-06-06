@@ -1,0 +1,262 @@
+[
+  {
+    "id": 0,
+    "title": "Calendario Sesiones 2024",
+    "sesions": [
+      {
+        "name": "68ª Sesión Ordinaria ✔",
+        "date": "Jueves 22 de febrero"
+      },
+      {
+        "name": "69ª Sesión Ordinaria",
+        "date": "Jueves 13 de junio"
+      },
+      {
+        "name": "70ª Sesión Ordinaria",
+        "date": "Jueves 29 de agosto"
+      },
+      {
+        "name": "71ª Sesión Ordinaria",
+        "date": "Jueves 7 de noviembre"
+      }
+    ]
+  },
+  {
+    "id": 2023,
+    "title": "Sesiones 2023",
+    "year": "2023",
+    "sesions": [
+      {
+        "name": "64ª Sesión Ordinaria",
+        "date": "23 de febrero",
+        "convocatory": "/documents/actas-conaf/CONAF64/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF64/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF64/acta.pdf"
+      },
+      {
+        "name": "65ª Sesión Ordinaria",
+        "date": "25 de mayo",
+        "convocatory": "/documents/actas-conaf/CONAF65/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF65/carpeta.pdf",
+        "certificate": ""
+      },
+      {
+        "name": "66ª Sesión Extraordinaria",
+        "date": "31 de agosto",
+        "convocatory": "/documents/actas-conaf/CONAF66/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF66/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF66/acta.pdf"
+      },
+      {
+        "name": "67ª Sesión Ordinaria",
+        "date": "30 de noviembre",
+        "convocatory": "/documents/actas-conaf/CONAF67/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF67/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF67/acta.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Sesiones Recientes",
+    "sesions": [
+      {
+        "name": "68ª Sesión Ordinaria",
+        "date": "22 de febrero",
+        "convocatory": "/documents/actas-conaf/CONAF68/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF68/carpeta.pdf",
+        "certificate": ""
+      }
+    ]
+  },
+  {
+    "id": 2022,
+    "title": "Sesiones 2022",
+    "year": "2022",
+    "sesions": [
+      {
+        "name": "60ª Sesión Ordinaria",
+        "date": "17 de febrero",
+        "convocatory": "/documents/actas-conaf/CONAF60/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF60/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF60/acta.pdf"
+      },
+      {
+        "name": "61ª Sesión Ordinaria",
+        "date": "26 de mayo",
+        "convocatory": "/documents/actas-conaf/CONAF61/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF61/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF61/acta.pdf"
+      },
+      {
+        "name": "31ª Sesión Extraordinaria",
+        "date": "16 de junio",
+        "convocatory": "/documents/actas-conaf/CONAF31/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF31/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF31/acta.pdf"
+      },
+      {
+        "name": "62ª Sesión Ordinaria",
+        "date": "18 de agosto",
+        "convocatory": "/documents/actas-conaf/CONAF62/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF62/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF62/acta.pdf"
+      },
+      {
+        "name": "32ª Sesión Extraordinaria",
+        "date": "10 de octubre",
+        "convocatory": "/documents/actas-conaf/CONAF32/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF32/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF32/acta.pdf"
+      },
+      {
+        "name": "63ª Sesión Ordinaria",
+        "date": "24 de noviembre",
+        "convocatory": "/documents/actas-conaf/CONAF63/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF63/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF63/acta.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sesiones 2021",
+    "year": "2021",
+    "sesions": [
+      {
+        "name": "59ª Sesión Ordinaria",
+        "date": "25 de noviembre",
+        "convocatory": "/documents/actas-conaf/CONAF59/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF59/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF59/acta.pdf"
+      },
+      {
+        "name": "58ª Sesión Ordinaria",
+        "date": "29 de octubre",
+        "convocatory": "/documents/actas-conaf/CONAF58/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF58/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF58/acta.pdf"
+      },
+      {
+        "name": "30ª Sesión Extraordinaria",
+        "date": "13 de octubre",
+        "convocatory": "/documents/actas-conaf/CONAF30/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF30/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF30/acta.pdf"
+      },
+      {
+        "name": "29ª Sesión Ordinaria",
+        "date": "18 de junio",
+        "convocatory": "/documents/actas-conaf/CONAF29/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF29/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF29/acta.pdf"
+      },
+      {
+        "name": "57ª Sesión Ordinaria",
+        "date": "03 de junio",
+        "convocatory": "/documents/actas-conaf/CONAF57/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF57/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF57/acta.pdf"
+      },
+      {
+        "name": "56ª Sesión Ordinaria",
+        "date": "25 de febrero",
+        "convocatory": "/documents/actas-conaf/CONAF56/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF56/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF56/acta.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sesiones 2020",
+    "year": "2020",
+    "sesions": [
+      {
+        "name": "55ª Sesión Ordinaria",
+        "date": "26 de noviembre",
+        "convocatory": "/documents/actas-conaf/CONAF55/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF55/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF55/acta.pdf"
+      },
+      {
+        "name": "28ª Sesión Extraordinaria",
+        "date": "15 de octubre",
+        "convocatory": "/documents/actas-conaf/CONAF28/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF28/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF28/acta.pdf"
+      },
+      {
+        "name": "54ª Sesión Ordinaria",
+        "date": "24 de septiembre",
+        "convocatory": "/documents/actas-conaf/CONAF54/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF54/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF54/acta.pdf"
+      },
+      {
+        "name": "53ª Sesión Ordinaria",
+        "date": "02 de julio",
+        "convocatory": "/documents/actas-conaf/CONAF53/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF53/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF53/acta.pdf"
+      },
+      {
+        "name": "52ª Sesión Ordinaria",
+        "date": "27 de febrero",
+        "convocatory": "/documents/actas-conaf/CONAF52/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF52/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF53/acta.pdf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sesiones 2019",
+    "year": "2019",
+    "sesions": [
+      {
+        "name": "51ª Sesión Ordinaria",
+        "date": "25 de noviembre",
+        "convocatory": "/documents/actas-conaf/CONAF51/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF51/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF51/acta.pdf"
+      },
+      {
+        "name": "50ª Sesión Ordinaria",
+        "date": "18 de septiembre",
+        "convocatory": "/documents/actas-conaf/CONAF50/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF50/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF50/acta.pdf"
+      },
+      {
+        "name": "49ª Sesión Ordinaria",
+        "date": "08 de agosto",
+        "convocatory": "/documents/actas-conaf/CONAF49/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF49/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF49/acta.pdf"
+      },
+      {
+        "name": "27ª Sesión Extraordinaria",
+        "date": "13 de junio",
+        "convocatory": "/documents/actas-conaf/CONAF27/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF27/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF27/acta.pdf"
+      },
+      {
+        "name": "48ª Sesión Ordinaria",
+        "date": "07 de mayo",
+        "convocatory": "/documents/actas-conaf/CONAF48/convocatoria.pdf",
+        "folder": "/documents/actas-conaf/CONAF48/carpeta.pdf",
+        "certificate": "/documents/actas-conaf/CONAF48/acta.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2018,
+    "title": "Sesiones 2018",
+    "year": "2018",
+    "sesions":[
+      
+    ]
+  }
+]

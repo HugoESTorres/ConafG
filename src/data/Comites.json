@@ -1,0 +1,608 @@
+[
+  {
+    "id": 1,
+    "name": "Comité Técnico de Legislación e Inspección y Vigilancia Forestal",
+    "shortname": "CTLIVF",
+    "description": "Atiende los asuntos relacionados con leyes, reglamentos y normas; así como aquellos temas relativos a la inspección y vigilancia forestal, fortalecimiento de la aplicación del marco normativo y combate a la ilegalidad.",
+    "coordinadora": "Industrial",
+    "CTLIVF": [
+      {
+        "id": 1,
+        "name": "Coordinación; Representación Industrial",
+        "titular": "Martha Beatriz Mijangos Ramírez",
+        "orgtit": "Cámara Nacional de las Industrias de la Celulosa y Papel",
+        "nomtit": "Coordinadora Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Carlos Enrique González Vicente",
+        "orgsup": "Asociación Mexicana de Plantadores Forestales",
+        "nomsup": "Coordinador Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 8,
+        "name": "Asistencia Técnica",
+        "nomtit": "Asistente Técnico",
+        "titular": "David Cabrera Hermosillo",
+        "orgtit": "Coordinación General Jurídica - Comisión Nacional Forestal",
+        "phototit": "https://www.gob.mx/cms/uploads/structure/main_image/4173/IMG_0246_-_cabrera_color.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Representación Comunidades Forestales",
+        "titular": "Gonzalo Chápela y Mendoza",
+        "orgtit": "Red Mexicana de Organizaciones Campesinas Forestales, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Abel Moreno González",
+        "orgsup": "Asociación de Ejidos Comunes y Productores Forestales del Estado de México, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 3,
+        "name": "Representación Profesional",
+        "titular": "Roberto Brito Navarrete",
+        "orgtit": "Asociación Mexicana de Profesionales Forestales, A. C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Rodolfo Carrasco Portillo",
+        "orgsup": "Asociación Mexicana de Profesionales Forestales, A. C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 4,
+        "name": "Representación Industrial",
+        "titular": "Alejandro Ricardo Sánchez Rosales",
+        "orgtit": "Cámara Nacional de la Industria Forestal, Delegación Jalisco.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Miguel Angel Carpizo Macgregor",
+        "orgsup": "Consejo Empresarial Forestal",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 5,
+        "name": "Representación Sociedad Civil",
+        "titular": "Marco Antonio Acevedo Hernandez",
+        "orgtit": "Rainforest Alliance México-Alianza para Bosques, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Emilio Cruz Sánchez",
+        "orgsup": "Reforestamos México, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 6,
+        "name": "Representación Académico",
+        "titular": "Cintia Karina Rojas Mayorga",
+        "orgtit": "Centro Universitario de Gestión Ambiental, Universidad de Colima",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Héctor Manuel de los Santos Posadas",
+        "orgsup": "Colegio de Postgraduados",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 7,
+        "name": "Representación Pueblos Indígenas",
+        "titular": "Romulo Ruiz Ruiz",
+        "orgtit": "Bienes Comunales la Trinidad Ixtlán Santiago Xiacuí",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Marcos Paéz Miranda",
+        "orgsup": "Bienes Comunales de San Miguel Topilejo",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Comité Técnico de Producción y Productividad Forestal",
+    "shortname": "CTPPF",
+    "description": "Atiende los temas relacionados con el manejo y aprovechamiento sustentable de los recursos forestales, el desarrollo de plantaciones forestales comerciales y la industrialización y comercialización de los productos forestales, maderables y no maderables; así como lo relacionado al fortalecimiento de la organización para la producción forestal y asuntos de mercado forestal interno y externo.",
+    "coordinadora": "Pueblos Indígenas",
+    "CTPPF": [
+      {
+        "id": 1,
+        "name": "Coordinación; Representación Pueblos Indígenas",
+        "titular": "Moises Raúl Hernandez Cortez",
+        "orgtit": "Bienes Comunales San Pedro el Alto",
+        "nomtit": "Coordinadora Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Beatriz Pacheco Silvestre",
+        "orgsup": "Unión Nacional de Organizaciones Indígenas de México, A.C.",
+        "nomsup": "Coordinador Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 8,
+        "name": "Asistencia Técnica",
+        "nomtit": "Asistente Técnico",
+        "titular": "Pedro Antonio Plateros Gastelum",
+        "orgtit": "Coordinación General de Producción y Productividad - Comisión Nacional Forestal",
+        "phototit": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 2,
+        "name": "Representación Comunidades Forestales",
+        "titular": "Manuel Montes Nuñez",
+        "orgtit": "Confederación Nacional de Productores Silvícolas, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "José Alfonso Moreno Jiménez",
+        "orgsup": "Confederación Nacional de Organizaciones de Silvicultores, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 3,
+        "name": "Representación Profesional",
+        "titular": "Raúl Ángel López",
+        "orgtit": "Asociación Mexicana de Profesionales Forestales, A. C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "David Molina González",
+        "orgsup": "Colegio Forestal de México, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 4,
+        "name": "Representación Industrial",
+        "titular": "Jurgen Bernhard Stock Leyton",
+        "orgtit": "Asociación Nacional de Fabricantes de Tableros de Madera",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Javier Gerardo Andrade Martínez",
+        "orgsup": "Cámara Nacional de la Industria Forestal",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 5,
+        "name": "Representación Sociedad Civil",
+        "titular": "Roberto Alfredo Ortega Villalobos",
+        "orgtit": "Proforestal, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Hugo Cardenas Rodríguez",
+        "orgsup": "TNC Conservación de la Naturaleza, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 6,
+        "name": "Representación Académico",
+        "titular": "Rogelio Flores Velázquez",
+        "orgtit": "Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Benedicto Vargas Larreta",
+        "orgsup": "Instituto Tecnológico de El Salto",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 7,
+        "name": "Representación Pueblos Indígenas",
+        "titular": "Franco Alfredo Pérez González",
+        "orgtit": "Ejido Monte Sinaí II",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Corpúlos Meza Rosales",
+        "orgsup": "Bienes Comunales de Tepizoac, San Juan de los Potreros, Tenzompa y San Lorenzo de Atzqueltan (Tepehuanos del Sur)",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Comité Técnico de Educación, Cultura Forestal y Desarrollo Tecnológico",
+    "shortname": "CTECFDT",
+    "description": "Atiende los temas relacionados a la educación, cultura forestal, capacitación y adiestramiento, investigación y desarrollo tecnológico en materia forestal.",
+    "coordinadora": "Académica",
+    "CTECFDT": [
+      {
+        "id": 1,
+        "name": "Coordinación; Representación Académica",
+        "titular": "Nahum Modesto Sánchez Vargas",
+        "orgtit": "Universidad Michoacana de San Nicolás de Hidalgo",
+        "nomtit": "Coordinadora Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Nora Isela Ruiz Colorado",
+        "orgsup": "Academia de Ingeniería Forestal, Instituto Tecnológico Superior de Perote",
+        "nomsup": "Coordinadora Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 8,
+        "name": "Asistencia Técnica",
+        "nomtit": "Asistente Técnico",
+        "titular": "Gloria Barbara Baltazar Mendoza",
+        "orgtit": "Unidad de Educación y Desarrollo Tecnológico - Comisión Nacional Forestal",
+        "phototit": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 2,
+        "name": "Representación Comunidades Forestales",
+        "titular": "Florentino Morales Solís",
+        "orgtit": "Asociación de Ejidos Comunes y Productores Forestales del Estado de México, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Erick Ossiel Torres Mireles",
+        "orgsup": "Red Mexicana de Organizaciones Campesinas Forestales, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 3,
+        "name": "Representación Profesional",
+        "titular": "Héctor Armendaríz Payán",
+        "orgtit": "Asociación Nacional de Egresados de Guardas y Técnicos Forestales de Uruapan, Mich. A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Francisco Mancilla Barbosa",
+        "orgsup": "Asociación Nacional de Técnicos Forestales Egresados del ETF-CECFOR 3, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 4,
+        "name": "Representación Industrial",
+        "titular": "Gabriel Zorrilla de la Concha",
+        "orgtit": "Asociación Nacional de Fabricantes de Tableros de Madera",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Martha Beatriz Mijangos Ramírez",
+        "orgsup": "Cámara Nacional de las Industrias de la Celulosa y Papel",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 5,
+        "name": "Representación Sociedad Civil",
+        "titular": "Genoveva Trejo Macias",
+        "orgtit": "Rainforest Alliance México-Alianza para Bosques, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Juan Carlos Carrillo Fuentes",
+        "orgsup": "Centro Mexicano para el Derecho Ambiental, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 6,
+        "name": "Representación Académico",
+        "titular": "Patricia Hernández de la Rosa",
+        "orgtit": "Colegio de Postgraduados",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Omar Romero Sandoval",
+        "orgsup": "Instituto tecnológico Superior de Zongolica",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 7,
+        "name": "Representación Pueblos Indígenas",
+        "titular": "Agustín Eusebio Vázquez",
+        "orgtit": "Corredor Sustentable Otimíes Indígenas Mexicas A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "María Luisa Bustillos Gardea",
+        "orgsup": "Napawika Tibupo Kawi A.C",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Comité Técnico de Protección y Conservación Forestal",
+    "shortname": "CTPCF",
+    "description": "Atiende los temas relacionados con manejo integral del fuego, protección, restauración de recursos forestales y sus suelos; lo relacionado con los servicios ambientales de los ecosistemas forestales y manejo integrado de plagas y enfermedades forestales.",
+    "coordinadora": "Sociedad Civil",
+    "CTPCF": [
+      {
+        "id": 1,
+        "name": "Coordinación; Representación Sociedad Civil",
+        "titular": "Juana Iris Sánchez Hernández",
+        "orgtit": "TNC Conservación de la Naturaleza, A.C.",
+        "nomtit": "Coordinadora Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Santiago Machado Macias",
+        "orgsup": "Rainforest Alliance México-Alianza para Bosques, A.C.",
+        "nomsup": "Coordinador Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 8,
+        "name": "Asistencia Técnica",
+        "nomtit": "Asistente Técnico",
+        "titular": "Eduardo Vargas Pérez",
+        "orgtit": "Coordinación General de Conservación y Restauración - Comisión Nacional Forestal",
+        "phototit": "https://www.gob.mx/cms/uploads/structure/main_image/5250/9306.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Comunidades Forestales",
+        "titular": "Salvador Aguayo García",
+        "orgtit": "Red Nacional de Organizaciones y Empresas Sociales Noremso, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Jorge Raúl Fernández de Castro Contreras",
+        "orgsup": "Unión de Permisionarios de la Unidad de Conservación y Desarrollo Forestal No. 4 S.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 3,
+        "name": "Representación Profesional",
+        "titular": "Tomás Luna Enríquez",
+        "orgtit": "Asociación Nacional de Egresados de Guardas y Técnicos Forestales de Uruapan, Mich. A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "José Cristóbal Leyva López",
+        "orgsup": "Colegio Forestal de México, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 4,
+        "name": "Representación Industrial",
+        "titular": "Leovigildo Suárez Ambriz",
+        "orgtit": "Cámara Nacional de la Industria Forestal",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Abel Salazar Contreras",
+        "orgsup": "Asociación Mexicana de Plantadores Forestales",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 5,
+        "name": "Representación Sociedad Civil",
+        "titular": "Gerardo Rodríguez Acuña",
+        "orgtit": "Asociación para la Conservación de Especies y Espacios Naturales Representativos de Baja California, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Ricardo Ramírez Domínguez",
+        "orgsup": "Rainforest Alliance México-Alianza para Bosques, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 6,
+        "name": "Representación Académico",
+        "titular": "Luis Gerardo Cuellar Rodríguez",
+        "orgtit": "Universidad Autónoma de Nuevo León",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Andrés María Ramírez",
+        "orgsup": "Colegio de Tlaxcala, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 7,
+        "name": "Representación Pueblos Indígenas",
+        "titular": "Francisco Javier Chavira Sevilla",
+        "orgtit": "Comunidad Indígena de Milpa Alta",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "José Mario González Guerrero",
+        "orgsup": "Ejido La Joya",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Comité Técnico de Servicios Técnicos Forestales",
+    "shortname": "CTSTF",
+    "description": "Atiende los asuntos relacionados con la asistencia técnica y la prestación de servicios técnicos forestales",
+    "coordinadora": "Profesional",
+    "CTSTF": [
+      {
+        "id": 1,
+        "name": "Coordinación; Profesional",
+        "titular": "Avelino Benigno Villa Salas",
+        "orgtit": "Academia Nacional de Ciencias Forestales, A.C.",
+        "nomtit": "Coordinador Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Rocío Contla Arzamendi",
+        "orgsup": "Asociación Mexicana de Profesionales Forestales, A.C.",
+        "nomsup": "Coordinadora Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 8,
+        "name": "Asistencia Técnica",
+        "nomtit": "Asistente Técnico",
+        "titular": "Pedro Antonio Plateros Gastelum",
+        "orgtit": "Coordinación General de Producción y Productividad - Comisión Nacional Forestal",
+        "phototit": "https://www.gob.mx/cms/uploads/structure/main_image/5176/WhatsApp_Image_2021-11-24_at_12.57.57__1_.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Representación Comunidades Forestales",
+        "titular": "Jorge Raúl Fernández de Castro Contreras",
+        "orgtit": "Unión de Permisionarios de la Unidad de Conservación y Desarrollo Forestal No. 4 S.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Ramiro Robledo Màrquez",
+        "orgsup": "Unión Nacional de Organizaciones de Forestaría Comunal, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 3,
+        "name": "Representación Profesional",
+        "titular": "Rosendo Galván Moreno",
+        "orgtit": "Colegio Forestal de México, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "José Luis Hernández Torres",
+        "orgsup": "Asociación Mexicana de Profesionales Forestales, A. C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 4,
+        "name": "Representación Industrial",
+        "titular": "Alfonso Gerardo Fernández de Castro Toulet",
+        "orgtit": "Consejo Empresarial Forestal",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Jorge Barajas Peralta",
+        "orgsup": "Asociación Mexicana de Plantadores Forestales",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 5,
+        "name": "Representación Sociedad Civil",
+        "titular": "Prócoro Gómez Martínez",
+        "orgtit": "RED POCAI, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Roberto Alfredo Ortega Villalobos",
+        "orgsup": "Proforestal, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 6,
+        "name": "Representación Académico",
+        "titular": "José René Valdez Lazalde",
+        "orgtit": "Colegio de Postgraduados",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Efraín Velasco Bautista",
+        "orgsup": "Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 7,
+        "name": "Representación Pueblos Indígenas",
+        "titular": "Abelardo Erasmo Pacheco Colohua",
+        "orgtit": "Unión Nacional de Organizaciones Indígenas de México, A.C.",
+        "nomtit": "Integrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Rómulo Ruiz Ruiz",
+        "orgsup": "Bienes Comunales la Trinidad Ixtlán Santiago Xiacuí.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Comité Técnico de Cambio Climático y Bosques",
+    "shortname": "CTCCB",
+    "description": "Atiende los asuntos relacionados con mitigación y adaptación de los efectos del cambio climático sobre los bosques; reducción de emisiones por deforestación y degradación forestal.",
+    "coordinadora": "Comunidades Forestales",
+    "CTCCB": [
+      {
+        "id": 1,
+        "name": "Coordinación; Comunidades Forestales",
+        "titular": "José de la Luz Santillán",
+        "orgtit": "Unión Nacional de Organizaciones de Forestaría Comunal, A.C.",
+        "nomtit": "Coordinador Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Etna Eunice Garcìa Sanchez",
+        "orgsup": "Red Nacional de Organizaciones y Empresas Sociales Noremso, A.C.",
+        "nomsup": "Coordinadora Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 8,
+        "name": "Asistencia Técnica (CONAFOR)",
+        "nomtit": "Asistente Técnico",
+        "titular": "Carlos Manuel Perez Medina",
+        "orgtit": "Unidad de Asuntos Internacionales y Fomento Financiero - Comisión Nacional Forestal",
+        "phototit": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 2,
+        "name": "Representación Comunidades Forestales",
+        "titular": "Salvador Aguayo García",
+        "orgtit": "Red Nacional de Organizaciones y Empresas Sociales Noremso, A.C.",
+        "nomtit": "Ingregrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Ramiro Ramírez Gardea",
+        "orgsup": "Confederación Nacional de Productores Silvícolas, A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 3,
+        "name": "Representación Profesional",
+        "titular": "Rausel Ramírez Camacho",
+        "orgtit": "Colegio Forestal de México, A.C.",
+        "nomtit": "Ingregrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Ana Luz Martìnez Rodrìguez",
+        "orgsup": "Asociación Mexicana de Profesionales Forestales, A. C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 4,
+        "name": "Representación Industrial",
+        "titular": "Rafael Camarena Venegas",
+        "orgtit": "Cámara Nacional de las Industrias de la Celulosa y Papel",
+        "nomtit": "Ingregrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Kristina Díaz Paterson",
+        "orgsup": "Asociación Mexicana de Plantadores Forestales",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 5,
+        "name": "Representación Sociedad Civil",
+        "titular": "Salvador Anta Fonseca",
+        "orgtit": "Consejo Civil Mexicano para la Silvicultura Sostenible, A.C.",
+        "nomtit": "Ingregrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Nohemí Daniela Sarabia López",
+        "orgsup": "Unión de Mujeres Agrosilvícolas para el Progreso con México A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 6,
+        "name": "Representación Académico",
+        "titular": "Israel Yerena Yamallel",
+        "orgtit": "Universidad Autónoma de Nuevo León",
+        "nomtit": "Ingregrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Benito Bernardo Dzib Castillo",
+        "orgsup": "Instituto Tecnológico de Chiná",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      },
+      {
+        "id": 7,
+        "name": "Representación Pueblos Indígenas",
+        "titular": "Andrés Gómez Pérez",
+        "orgtit": "Asociación de Silvicultores Región Miramar A.C.",
+        "nomtit": "Ingregrante Titular",
+        "phototit": "https://i.imgur.com/LrgS4NG.png",
+        "suplente": "Agustín Eusebio Vázquez",
+        "orgsup": "Corredor Sustentable Otimíes Indígenas Mexicas A.C.",
+        "nomsup": "Integrante Suplente",
+        "photosup": "https://i.imgur.com/LrgS4NG.png"
+      }
+    ]
+  }
+]

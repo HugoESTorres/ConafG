@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "question": "¿Le solicitaron algún tipo de gratificación para participar en esta sesión de Consejo Consultivo?",
+    "mide": "Honestidad",
+    "tipo": "Objetivo"
+  },
+  {
+    "id": 2,
+    "question": "¿Durante la sesión de Consejo Consultivo, ¿percibió un trato desigual, injustificado o discriminación hacia Usted?"
+  },
+  {
+    "id": 3,
+    "question": "¿Considera que el personal por parte de la SEMARNAT que participó en la sesión de Consejo Consultivo está debidamente capacitado?"
+  },
+  {
+    "id": 4,
+    "question": "¿Se elaboró un documento con los acuerdos y/o recomendaciones de esta sesión de Consejo Consultivo?"
+  },
+  {
+    "id": 5,
+    "question": "¿Se le informaron los requisitos que debe cumplir para participar en esta sesión de Consejo Consultivo?"
+  },
+  {
+    "id": 6,
+    "question": "¿Existe un procedimiento para seleccionar a los participantes en esta sesión de Consejo Consultivo?"
+  },
+  {
+    "id": 7,
+    "question": "¿Se emitió una convocatoria para acudir a esta sesión de Consejo Consultivo?"
+  },
+  {
+    "id": 8,
+    "question": "¿Se presentó un Orden del día o Agenda en esta sesión de Consejo Consultivo?"
+  },
+  {
+    "id": 9,
+    "question": "¿Se definieron responsables para el seguimiento de los acuerdos de esta sesión de Consejo Consultivo?"
+  },
+  {
+    "id": 10,
+    "question": "¿El horario y lugar de esta sesión de Consejo Consultivo fueron los adecuados?"
+  },
+  {
+    "id": 11,
+    "question": "¿Existe una mecánica establecida para las votaciones del Consejo Consultivo?"
+  },
+  {
+    "id": 12,
+    "question": "¿La integración de este Consejo Consultivo se realizó mediante convocatoria pública?"
+  },
+  {
+    "id": 13,
+    "question": "¿Existe un mecanismo para asegurar la representatividad del Consejo Consultivo según los sectores que lo integran?"
+  },
+  {
+    "id": 14,
+    "question": "¿En las sesiones de este Consejo Consultivo se presenta un informe de seguimiento de acuerdos?"
+  },
+  {
+    "id": 15,
+    "question": "¿Este Consejo Consultivo presenta un informe anual de actividades?"
+  }
+]
